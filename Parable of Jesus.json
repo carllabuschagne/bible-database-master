@@ -1,0 +1,184 @@
+{
+  "parables": [
+    {
+      "title": "The Sower",
+      "reference": "Matthew 13:3-9",
+      "theme": "Response to the Gospel",
+      "summary": "Seed falls on4 different types of soil (path, rocks, thorns, good soil), representing how4 different types of people receive the word of God."
+    },
+    {
+      "title": "The Weeds (Tares)",
+      "reference": "Matthew 13:24-30",
+      "theme": "Judgment and Kingdom",
+      "summary": "An enemy sows weeds among wheat; the owner allows them to grow together until harvest to avoid destroying the wheat."
+    },
+    {
+      "title": "The Mustard Seed",
+      "reference": "Matthew 13:31-32",
+      "theme": "Growth of the Kingdom",
+      "summary": "The Kingdom of God starts small like a tiny seed but grows into a large tree."
+    },
+    {
+      "title": "The Leaven (Yeast)",
+      "reference": "Matthew 13:33",
+      "theme": "Influence of the Kingdom",
+      "summary": "A small amount of leaven permeates a large batch of dough, illustrating the expansive influence of the kingdom."
+    },
+    {
+      "title": "The Hidden Treasure",
+      "reference": "Matthew 13:44",
+      "theme": "Value of the Kingdom",
+      "summary": "A man sells everything he has to buy a field containing hidden treasure."
+    },
+    {
+      "title": "The Pearl of Great Price",
+      "reference": "Matthew 13:45-46",
+      "theme": "Value of the Kingdom",
+      "summary": "A merchant sells all his possessions to purchase one exceptionally valuable pearl."
+    },
+    {
+      "title": "The Net",
+      "reference": "Matthew 13:47-50",
+      "theme": "Final Judgment",
+      "summary": "A net gathers all kinds of fish, which are later sorted into good and bad, representing the end of the age."
+    },
+    {
+      "title": "The Unforgiving Servant",
+      "reference": "Matthew 18:23-35",
+      "theme": "Forgiveness",
+      "summary": "A servant who was forgiven a huge debt refuses to forgive a fellow servant a small debt, resulting in punishment."
+    },
+    {
+      "title": "The Workers in the Vineyard",
+      "reference": "Matthew 20:1-16",
+      "theme": "Grace and Fairness",
+      "summary": "Workers hired at different times of the day all receive the same pay, illustrating God's sovereign grace."
+    },
+    {
+      "title": "The Two Sons",
+      "reference": "Matthew 21:28-32",
+      "theme": "Obedience",
+      "summary": "A son says he won't work but does, while another says he will but doesn't, highlighting that actions matter more than words."
+    },
+    {
+      "title": "The Wedding Banquet",
+      "reference": "Matthew 22:1-14",
+      "theme": "The Kingdom and Rejection",
+      "summary": "Guests refuse an invitation to a wedding feast, so the host invites people from the streets instead."
+    },
+    {
+      "title": "The Ten Virgins",
+      "reference": "Matthew 25:1-13",
+      "theme": "Preparedness",
+      "summary": "Five wise virgins have oil for their lamps, while five foolish ones do not, emphasizing readiness for Christ's return."
+    },
+    {
+      "title": "The Talents",
+      "reference": "Matthew 25:14-30",
+      "theme": "Stewardship",
+      "summary": "Servants are entrusted with resources; those who invest them are rewarded, while the one who hides his is punished."
+    },
+    {
+      "title": "The Sheep and the Goats",
+      "reference": "Matthew 25:31-46",
+      "theme": "Judgment and Compassion",
+      "summary": "Jesus separates people based on how they treated the vulnerable, equating service to them with service to Him."
+    },
+    {
+      "title": "The Growing Seed",
+      "reference": "Mark 4:26-29",
+      "theme": "Growth of the Kingdom",
+      "summary": "A farmer scatters seed and it grows secretly without his understanding, representing God's work in the heart."
+    },
+    {
+      "title": "The Two Debtors",
+      "reference": "Luke 7:41-43",
+      "theme": "Gratitude and Forgiveness",
+      "summary": "A person forgiven a greater debt loves more than one forgiven a smaller debt."
+    },
+    {
+      "title": "The Good Samaritan",
+      "reference": "Luke 10:25-37",
+      "theme": "Love for Neighbor",
+      "summary": "A despised Samaritan helps a wounded man, unlike the religious figures who ignored him."
+    },
+    {
+      "title": "The Friend at Midnight",
+      "reference": "Luke 11:5-8",
+      "theme": "Persistence in Prayer",
+      "summary": "A man persists in asking his neighbor for bread, teaching the need for persistence in prayer."
+    },
+    {
+      "title": "The Rich Fool",
+      "reference": "Luke 12:16-21",
+      "theme": "Greed and Eternal Life",
+      "summary": "A man builds bigger barns for his wealth but dies before enjoying them, highlighting the folly of storing earthly riches."
+    },
+    {
+      "title": "The Barren Fig Tree",
+      "reference": "Luke 13:6-9",
+      "theme": "Repentance",
+      "summary": "A fig tree that bears no fruit is given a final chance before being cut down."
+    },
+    {
+      "title": "The Great Banquet",
+      "reference": "Luke 14:15-24",
+      "theme": "God's Invitation",
+      "summary": "Excuses are made by invited guests, so the host opens the banquet to all, including the marginalized."
+    },
+    {
+      "title": "The Lost Sheep",
+      "reference": "Luke 15:1-7",
+      "theme": "God's Love for the Lost",
+      "summary": "A shepherd leaves 99 sheep to find one that is lost, rejoicing when it is found."
+    },
+    {
+      "title": "The Lost Coin",
+      "reference": "Luke 15:8-10",
+      "theme": "God's Love for the Lost",
+      "summary": "A woman searches diligently for a lost coin, celebrating with neighbors when she finds it."
+    },
+    {
+      "title": "The Prodigal Son",
+      "reference": "Luke 15:11-32",
+      "theme": "Repentance and Grace",
+      "summary": "A son squanders his inheritance but is welcomed back with open arms by his loving father."
+    },
+    {
+      "title": "The Unjust Steward",
+      "reference": "Luke 16:1-13",
+      "theme": "Stewardship",
+      "summary": "A dishonest steward prepares for his future, prompting a lesson on using earthly resources for eternal gain."
+    },
+    {
+      "title": "The Rich Man and Lazarus",
+      "reference": "Luke 16:19-31",
+      "theme": "Consequences of Injustice",
+      "summary": "A selfish rich man goes to torment, while a poor beggar named Lazarus goes to heaven."
+    },
+    {
+      "title": "The Persistent Widow",
+      "reference": "Luke 18:1-8",
+      "theme": "Persistence in Prayer",
+      "summary": "A widow persists in asking a judge for justice until he grants it."
+    },
+    {
+      "title": "The Pharisee and the Tax Collector",
+      "reference": "Luke 18:9-14",
+      "theme": "Humility",
+      "summary": "A proud Pharisee and a humble tax collector pray; the latter is justified for his humility."
+    },
+    {
+      "title": "The Minas",
+      "reference": "Luke 19:11-27",
+      "theme": "Stewardship",
+      "summary": "Servants are given minas (money) to manage until their master returns, rewarding those who were productive."
+    },
+    {
+      "title": "The Wicked Tenants",
+      "reference": "Matthew 21:33-46",
+      "theme": "Rejection of God's Son",
+      "summary": "Tenants kill the owner's son, illustrating how religious leaders rejected Jesus."
+    }
+  ]
+}
