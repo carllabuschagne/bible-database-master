@@ -1,352 +1,722 @@
-[
-  {
-    "number": "1",
-    "title": "Genesis",
-    "details": "Genesis answers two big questions: How did Gods relationship with the world begin? and Where did the nation of Israel come from?",
-    "Author": "Traditionally Moses, but the stories are much older.",
-    "Fun fact": "Most of the famous Bible stories you have heard about are probably found in the book of Genesis. This is where the stories of Adam and Eve, Cain and Abel, Noah and the Ark, the Tower of Babel, Abraham and Isaac, Jacobs ladder, and Josephs coat of many colors are recorded."
+{
+  "bible_kjv": {
+    "categories_explanation": {
+      "Old Testament": [
+        {
+          "name": "Pentateuch",
+          "description": "The first five books (Torah) providing the law and the history of creation through the death of Moses."
+        },
+        {
+          "name": "Historical Books",
+          "description": "Twelve books narrating Israel's entry into the Promised Land, the rise and fall of its kingdoms, and the return from exile."
+        },
+        {
+          "name": "Wisdom Literature",
+          "description": "Five books of poetry, songs, and proverbs exploring human experience and godly living."
+        },
+        {
+          "name": "Major Prophets",
+          "description": "Longer prophetic works containing messages of judgment and Messianic hope; named 'Major' for their length."
+        },
+        {
+          "name": "Minor Prophets",
+          "description": "Twelve shorter prophetic books addressing social justice, repentance, and the 'Day of the Lord'."
+        }
+      ],
+      "New Testament": [
+        {
+          "name": "Gospels",
+          "description": "Four accounts of the life, ministry, death, and resurrection of Jesus Christ."
+        },
+        {
+          "name": "Church History",
+          "description": "A single book (Acts) documenting the birth of the early church and the spread of the Gospel."
+        },
+        {
+          "name": "Pauline Epistles",
+          "description": "Thirteen letters written by the Apostle Paul to specific churches or individuals regarding doctrine and conduct."
+        },
+        {
+          "name": "General Epistles",
+          "description": "Seven letters by various authors (Peter, James, John, Jude) written to the broader Christian community."
+        },
+        {
+          "name": "Apocalyptic Literature",
+          "description": "The final book (Revelation) using symbolic visions to reveal Christ's ultimate victory and the new creation."
+        }
+      ]
+    },
+    "testaments": [
+      {
+        "name": "Old Testament",
+        "books": [
+          {
+            "id": 1,
+            "name": "Genesis",
+            "author": "Moses",
+            "category": "Pentateuch",
+            "date": "1445–1405 BC",
+            "chapters": 50,
+            "verses": 1533,
+            "explanation": "The book of beginnings. Covers the Creation, the Fall of man, Noah’s Flood, the Tower of Babel, and the lives of the patriarchs Abraham, Isaac, Jacob, and Joseph."
+          },
+          {
+            "id": 2,
+            "name": "Exodus",
+            "author": "Moses",
+            "category": "Pentateuch",
+            "date": "1445–1405 BC",
+            "chapters": 40,
+            "verses": 1213,
+            "explanation": "God delivers Israel from slavery. Key events: The birth of Moses, the burning bush, the Ten Plagues of Egypt, the crossing of the Red Sea, and the giving of the Ten Commandments at Sinai."
+          },
+          {
+            "id": 3,
+            "name": "Leviticus",
+            "author": "Moses",
+            "category": "Pentateuch",
+            "date": "1445–1405 BC",
+            "chapters": 27,
+            "verses": 859,
+            "explanation": "A handbook for priests and a guide for holy living. It details the sacrificial system, dietary laws, and the Day of Atonement rituals."
+          },
+          {
+            "id": 4,
+            "name": "Numbers",
+            "author": "Moses",
+            "category": "Pentateuch",
+            "date": "1445–1405 BC",
+            "chapters": 36,
+            "verses": 1288,
+            "explanation": "Records the census of Israel and their 40 years of wandering in the wilderness due to their lack of faith. Includes the story of the bronze serpent and Balaam’s donkey."
+          },
+          {
+            "id": 5,
+            "name": "Deuteronomy",
+            "author": "Moses",
+            "category": "Pentateuch",
+            "date": "1405 BC",
+            "chapters": 34,
+            "verses": 959,
+            "explanation": "Moses’ final sermons to a new generation. He repeats the Law, calls for total devotion to God, and dies on Mount Nebo before Israel enters the Promised Land."
+          },
+          {
+            "id": 6,
+            "name": "Joshua",
+            "author": "Joshua",
+            "category": "Historical Books",
+            "date": "1405–1385 BC",
+            "chapters": 24,
+            "verses": 658,
+            "explanation": "The conquest of Canaan. Key events: The fall of Jericho, the sun standing still, and the division of the land among the twelve tribes."
+          },
+          {
+            "id": 7,
+            "name": "Judges",
+            "author": "Samuel (traditionally)",
+            "category": "Historical Books",
+            "date": "1050–1000 BC",
+            "chapters": 21,
+            "verses": 618,
+            "explanation": "The period before the kings where 'everyone did what was right in his own eyes.' Features the stories of Deborah, Gideon, and Samson’s strength."
+          },
+          {
+            "id": 8,
+            "name": "Ruth",
+            "author": "Samuel (traditionally)",
+            "category": "Historical Books",
+            "date": "1000 BC",
+            "chapters": 4,
+            "verses": 85,
+            "explanation": "A story of loyalty during the time of the Judges. Ruth, a Moabite widow, chooses to follow God and becomes the great-grandmother of King David."
+          },
+          {
+            "id": 9,
+            "name": "1 Samuel",
+            "author": "Samuel, Nathan, Gad",
+            "category": "Historical Books",
+            "date": "930 BC",
+            "chapters": 31,
+            "verses": 810,
+            "explanation": "The transition from judges to monarchy. Includes Samuel’s call, the rise and fall of King Saul, and the famous battle of David and Goliath."
+          },
+          {
+            "id": 10,
+            "name": "2 Samuel",
+            "author": "Nathan, Gad",
+            "category": "Historical Books",
+            "date": "930 BC",
+            "chapters": 24,
+            "verses": 695,
+            "explanation": "The story of David’s reign as king. Covers the establishment of Jerusalem, the Davidic Covenant, and David’s sin with Bathsheba."
+          },
+          {
+            "id": 11,
+            "name": "1 Kings",
+            "author": "Jeremiah (traditionally)",
+            "category": "Historical Books",
+            "date": "560–540 BC",
+            "chapters": 22,
+            "verses": 816,
+            "explanation": "The peak and decline of the kingdom. Covers Solomon’s wisdom, the building of the Temple, and the division into Israel (North) and Judah (South)."
+          },
+          {
+            "id": 12,
+            "name": "2 Kings",
+            "author": "Jeremiah (traditionally)",
+            "category": "Historical Books",
+            "date": "560–540 BC",
+            "chapters": 25,
+            "verses": 719,
+            "explanation": "The downfall of both kingdoms. Features the miracles of Elisha and the eventual exile of Israel to Assyria and Judah to Babylon."
+          },
+          {
+            "id": 13,
+            "name": "1 Chronicles",
+            "author": "Ezra (traditionally)",
+            "category": "Historical Books",
+            "date": "450–425 BC",
+            "chapters": 29,
+            "verses": 942,
+            "explanation": "A priestly perspective on history. Focuses on the genealogies from Adam and the spiritual highlights of David’s preparations for the Temple."
+          },
+          {
+            "id": 14,
+            "name": "2 Chronicles",
+            "author": "Ezra (traditionally)",
+            "category": "Historical Books",
+            "date": "450–425 BC",
+            "chapters": 36,
+            "verses": 822,
+            "explanation": "Continues the history from Solomon to the decree of Cyrus, focusing on the kings of Judah and their spiritual reforms."
+          },
+          {
+            "id": 15,
+            "name": "Ezra",
+            "author": "Ezra",
+            "category": "Historical Books",
+            "date": "440–430 BC",
+            "chapters": 10,
+            "verses": 280,
+            "explanation": "The return of the Jews from exile. Covers the rebuilding of the Temple in Jerusalem and Ezra’s work in teaching the Law."
+          },
+          {
+            "id": 16,
+            "name": "Nehemiah",
+            "author": "Nehemiah",
+            "category": "Historical Books",
+            "date": "440–430 BC",
+            "chapters": 13,
+            "verses": 406,
+            "explanation": "Nehemiah leads the effort to rebuild the walls of Jerusalem in just 52 days and institutes social and religious reforms."
+          },
+          {
+            "id": 17,
+            "name": "Esther",
+            "author": "Unknown",
+            "category": "Historical Books",
+            "date": "465–424 BC",
+            "chapters": 10,
+            "verses": 167,
+            "explanation": "A Jewish girl becomes Queen of Persia and risks her life to save her people from a plot by Haman. Origin of the feast of Purim."
+          },
+          {
+            "id": 18,
+            "name": "Job",
+            "author": "Unknown",
+            "category": "Wisdom Literature",
+            "date": "Ancient",
+            "chapters": 42,
+            "verses": 1070,
+            "explanation": "A poetic drama exploring why the righteous suffer. Job loses everything but remains faithful, eventually encountering God’s majesty."
+          },
+          {
+            "id": 19,
+            "name": "Psalms",
+            "author": "David, others",
+            "category": "Wisdom Literature",
+            "date": "1440–450 BC",
+            "chapters": 150,
+            "verses": 2461,
+            "explanation": "A collection of 150 poems, songs, and prayers. Many were written by David during his life as a shepherd, fugitive, and king."
+          },
+          {
+            "id": 20,
+            "name": "Proverbs",
+            "author": "Solomon, others",
+            "category": "Wisdom Literature",
+            "date": "970–700 BC",
+            "chapters": 31,
+            "verses": 915,
+            "explanation": "Practical wisdom for daily life. Themes include the fear of God, the value of hard work, and the dangers of foolishness."
+          },
+          {
+            "id": 21,
+            "name": "Ecclesiastes",
+            "author": "Solomon",
+            "category": "Wisdom Literature",
+            "date": "935 BC",
+            "chapters": 12,
+            "verses": 222,
+            "explanation": "A philosophical search for the meaning of life. The author concludes that everything is 'vanity' without a proper relationship with God."
+          },
+          {
+            "id": 22,
+            "name": "Song of Solomon",
+            "author": "Solomon",
+            "category": "Wisdom Literature",
+            "date": "965 BC",
+            "chapters": 8,
+            "verses": 117,
+            "explanation": "A poetic celebration of the love between a bridegroom and his bride, symbolizing God’s love for His people."
+          },
+          {
+            "id": 23,
+            "name": "Isaiah",
+            "author": "Isaiah",
+            "category": "Major Prophets",
+            "date": "700–681 BC",
+            "chapters": 66,
+            "verses": 1292,
+            "explanation": "The 'Prince of Prophets.' Contains powerful prophecies of judgment and comfort, specifically predicting the birth and suffering of the Messiah."
+          },
+          {
+            "id": 24,
+            "name": "Jeremiah",
+            "author": "Jeremiah",
+            "category": "Major Prophets",
+            "date": "626–585 BC",
+            "chapters": 52,
+            "verses": 1364,
+            "explanation": "The weeping prophet. He warned Judah of the coming Babylonian destruction and promised a New Covenant where God's law is written on the heart."
+          },
+          {
+            "id": 25,
+            "name": "Lamentations",
+            "author": "Jeremiah",
+            "category": "Major Prophets",
+            "date": "586 BC",
+            "chapters": 5,
+            "verses": 154,
+            "explanation": "Five poems mourning the destruction of Jerusalem and the Temple by the Babylonians."
+          },
+          {
+            "id": 26,
+            "name": "Ezekiel",
+            "author": "Ezekiel",
+            "category": "Major Prophets",
+            "date": "593–571 BC",
+            "chapters": 48,
+            "verses": 1273,
+            "explanation": "Prophecies given while in exile. Known for vivid visions, like the valley of dry bones coming to life and the glory of God leaving the Temple."
+          },
+          {
+            "id": 27,
+            "name": "Daniel",
+            "author": "Daniel",
+            "category": "Major Prophets",
+            "date": "535 BC",
+            "chapters": 12,
+            "verses": 357,
+            "explanation": "Faithfulness in a foreign land. Stories include the fiery furnace, the lions’ den, and apocalyptic visions of future world empires."
+          },
+          {
+            "id": 28,
+            "name": "Hosea",
+            "author": "Hosea",
+            "category": "Minor Prophets",
+            "date": "750–715 BC",
+            "chapters": 14,
+            "verses": 197,
+            "explanation": "Hosea is told to marry an unfaithful wife as a living parable of God’s heartbreaking love for an unfaithful Israel."
+          },
+          {
+            "id": 29,
+            "name": "Joel",
+            "author": "Joel",
+            "category": "Minor Prophets",
+            "date": "835–796 BC",
+            "chapters": 3,
+            "verses": 73,
+            "explanation": "Uses a devastating locust plague as a warning of the coming 'Day of the Lord' and promises the future outpouring of the Holy Spirit."
+          },
+          {
+            "id": 30,
+            "name": "Amos",
+            "author": "Amos",
+            "category": "Minor Prophets",
+            "date": "760–750 BC",
+            "chapters": 9,
+            "verses": 146,
+            "explanation": "A shepherd-prophet who rebuked the northern kingdom for social injustice, religious hypocrisy, and the oppression of the poor."
+          },
+          {
+            "id": 31,
+            "name": "Obadiah",
+            "author": "Obadiah",
+            "category": "Minor Prophets",
+            "date": "840 or 586 BC",
+            "chapters": 1,
+            "verses": 21,
+            "explanation": "A short prophecy against the nation of Edom for their pride and their gloating over the downfall of Jerusalem."
+          },
+          {
+            "id": 32,
+            "name": "Jonah",
+            "author": "Jonah",
+            "category": "Minor Prophets",
+            "date": "775 BC",
+            "chapters": 4,
+            "verses": 48,
+            "explanation": "A reluctant prophet is swallowed by a great fish while fleeing God's call to preach repentance to the enemy city of Nineveh."
+          },
+          {
+            "id": 33,
+            "name": "Micah",
+            "author": "Micah",
+            "category": "Minor Prophets",
+            "date": "735–700 BC",
+            "chapters": 7,
+            "verses": 105,
+            "explanation": "Predicts the birth of the Messiah in Bethlehem and calls for people to 'do justice, love mercy, and walk humbly with God.'"
+          },
+          {
+            "id": 34,
+            "name": "Nahum",
+            "author": "Nahum",
+            "category": "Minor Prophets",
+            "date": "663–612 BC",
+            "chapters": 3,
+            "verses": 47,
+            "explanation": "A prophecy of the certain and final destruction of Nineveh, the capital of the cruel Assyrian empire."
+          },
+          {
+            "id": 35,
+            "name": "Habakkuk",
+            "author": "Habakkuk",
+            "category": "Minor Prophets",
+            "date": "612–589 BC",
+            "chapters": 3,
+            "verses": 56,
+            "explanation": "A dialogue where the prophet questions why God uses the wicked Babylonians to judge Judah. It ends with a song of total trust in God."
+          },
+          {
+            "id": 36,
+            "name": "Zephaniah",
+            "author": "Zephaniah",
+            "category": "Minor Prophets",
+            "date": "640–609 BC",
+            "chapters": 3,
+            "verses": 53,
+            "explanation": "Warns that the Day of the Lord is near for all nations, but promises that God will rejoice over a repentant remnant with singing."
+          },
+          {
+            "id": 37,
+            "name": "Haggai",
+            "author": "Haggai",
+            "category": "Minor Prophets",
+            "date": "520 BC",
+            "chapters": 2,
+            "verses": 38,
+            "explanation": "A direct challenge to the returning exiles to stop focusing on their own houses and finish rebuilding God’s Temple."
+          },
+          {
+            "id": 38,
+            "name": "Zechariah",
+            "author": "Zechariah",
+            "category": "Minor Prophets",
+            "date": "520–480 BC",
+            "chapters": 14,
+            "verses": 211,
+            "explanation": "Encouragement for the Temple builders through visions and prophecies of the Messiah’s entry into Jerusalem on a donkey."
+          },
+          {
+            "id": 39,
+            "name": "Malachi",
+            "author": "Malachi",
+            "category": "Minor Prophets",
+            "date": "440–430 BC",
+            "chapters": 4,
+            "verses": 55,
+            "explanation": "The final message of the Old Testament. Rebukes the people for spiritual apathy and promises the coming of a messenger (John the Baptist)."
+          }
+        ]
+      },
+      {
+        "name": "New Testament",
+        "books": [
+          {
+            "id": 40,
+            "name": "Matthew",
+            "author": "Matthew",
+            "category": "Gospels",
+            "date": "AD 50–60",
+            "chapters": 28,
+            "verses": 1071,
+            "explanation": "Presents Jesus as the Messiah-King. Features the Sermon on the Mount and many parables of the Kingdom, like the Sower and the Hidden Treasure."
+          },
+          {
+            "id": 41,
+            "name": "Mark",
+            "author": "John Mark",
+            "category": "Gospels",
+            "date": "AD 50–60",
+            "chapters": 16,
+            "verses": 678,
+            "explanation": "The shortest Gospel, focusing on Jesus as the Suffering Servant. It emphasizes Jesus’ actions and miracles over His long discourses."
+          },
+          {
+            "id": 42,
+            "name": "Luke",
+            "author": "Luke",
+            "category": "Gospels",
+            "date": "AD 60–61",
+            "chapters": 24,
+            "verses": 1151,
+            "explanation": "The most detailed Gospel. Contains unique parables like the Good Samaritan and the Prodigal Son, emphasizing Jesus’ concern for the outcast."
+          },
+          {
+            "id": 43,
+            "name": "John",
+            "author": "John (Apostle)",
+            "category": "Gospels",
+            "date": "AD 80–90",
+            "chapters": 21,
+            "verses": 879,
+            "explanation": "Focuses on the deity of Jesus through seven 'I Am' statements and seven signs. It includes the famous conversation with Nicodemus (John 3)."
+          },
+          {
+            "id": 44,
+            "name": "Acts",
+            "author": "Luke",
+            "category": "Church History",
+            "date": "AD 62",
+            "chapters": 28,
+            "verses": 1007,
+            "explanation": "The history of the early church. Key events: Pentecost, the conversion of Paul, and the spread of the Gospel from Jerusalem to Rome."
+          },
+          {
+            "id": 45,
+            "name": "Romans",
+            "author": "Paul",
+            "category": "Pauline Epistles",
+            "date": "AD 57",
+            "chapters": 16,
+            "verses": 433,
+            "explanation": "Paul’s masterpiece on theology, explaining how both Jews and Gentiles are justified by faith in Christ rather than by the Law."
+          },
+          {
+            "id": 46,
+            "name": "1 Corinthians",
+            "author": "Paul",
+            "category": "Pauline Epistles",
+            "date": "AD 55",
+            "chapters": 16,
+            "verses": 437,
+            "explanation": "A letter addressing problems in the Corinthian church, including divisions, lawsuits, and spiritual gifts. Contains the 'Love Chapter' (Ch. 13)."
+          },
+          {
+            "id": 47,
+            "name": "2 Corinthians",
+            "author": "Paul",
+            "category": "Pauline Epistles",
+            "date": "AD 55–56",
+            "chapters": 13,
+            "verses": 257,
+            "explanation": "Paul defends his apostolic authority and shares the nature of true ministry, which is often carried out in weakness and suffering."
+          },
+          {
+            "id": 48,
+            "name": "Galatians",
+            "author": "Paul",
+            "category": "Pauline Epistles",
+            "date": "AD 49",
+            "chapters": 6,
+            "verses": 149,
+            "explanation": "A passionate defense of Christian liberty against those who said believers must still follow Jewish ceremonial laws to be saved."
+          },
+          {
+            "id": 49,
+            "name": "Ephesians",
+            "author": "Paul",
+            "category": "Pauline Epistles",
+            "date": "AD 60–62",
+            "chapters": 6,
+            "verses": 155,
+            "explanation": "Explains the believer's position in Christ and the armor of God. Focuses on the unity of the church as the body of Christ."
+          },
+          {
+            "id": 50,
+            "name": "Philippians",
+            "author": "Paul",
+            "category": "Pauline Epistles",
+            "date": "AD 60–62",
+            "chapters": 4,
+            "verses": 104,
+            "explanation": "The 'Epistle of Joy,' written from prison. Paul encourages the church to have the same humble mind as Christ."
+          },
+          {
+            "id": 51,
+            "name": "Colossians",
+            "author": "Paul",
+            "category": "Pauline Epistles",
+            "date": "AD 60–62",
+            "chapters": 4,
+            "verses": 95,
+            "explanation": "Combats false teachings by exalting the absolute supremacy and sufficiency of Jesus Christ over all other powers."
+          },
+          {
+            "id": 52,
+            "name": "1 Thessalonians",
+            "author": "Paul",
+            "category": "Pauline Epistles",
+            "date": "AD 51",
+            "chapters": 5,
+            "verses": 89,
+            "explanation": "Encouragement for a young church facing persecution. Provides the clearest teaching on the return of Christ and the 'Rapture'."
+          },
+          {
+            "id": 53,
+            "name": "2 Thessalonians",
+            "author": "Paul",
+            "category": "Pauline Epistles",
+            "date": "AD 51–52",
+            "chapters": 3,
+            "verses": 47,
+            "explanation": "Clarifies misunderstandings about the Day of the Lord and warns against idleness while waiting for Christ’s return."
+          },
+          {
+            "id": 54,
+            "name": "1 Timothy",
+            "author": "Paul",
+            "category": "Pauline Epistles",
+            "date": "AD 62–64",
+            "chapters": 6,
+            "verses": 113,
+            "explanation": "A 'Pastoral Epistle' giving Timothy instructions on church leadership, the qualifications for elders, and sound doctrine."
+          },
+          {
+            "id": 55,
+            "name": "2 Timothy",
+            "author": "Paul",
+            "category": "Pauline Epistles",
+            "date": "AD 66–67",
+            "chapters": 4,
+            "verses": 83,
+            "explanation": "Paul’s final letter before his execution. He encourages Timothy to 'preach the word' and remain faithful until the end."
+          },
+          {
+            "id": 56,
+            "name": "Titus",
+            "author": "Paul",
+            "category": "Pauline Epistles",
+            "date": "AD 62–64",
+            "chapters": 3,
+            "verses": 46,
+            "explanation": "Guidance for Titus on the island of Crete regarding church organization and the importance of teaching believers to do good works."
+          },
+          {
+            "id": 57,
+            "name": "Philemon",
+            "author": "Paul",
+            "category": "Pauline Epistles",
+            "date": "AD 60–62",
+            "chapters": 1,
+            "verses": 25,
+            "explanation": "A personal appeal to a slave owner to receive his runaway slave, Onesimus, back not as a slave, but as a brother in Christ."
+          },
+          {
+            "id": 58,
+            "name": "Hebrews",
+            "author": "Unknown",
+            "category": "General Epistles",
+            "date": "AD 67–69",
+            "chapters": 13,
+            "verses": 303,
+            "explanation": "Shows that Jesus is superior to angels, Moses, and the old sacrificial system. Includes the 'Hall of Faith' in Chapter 11."
+          },
+          {
+            "id": 59,
+            "name": "James",
+            "author": "James",
+            "category": "General Epistles",
+            "date": "AD 45–48",
+            "chapters": 5,
+            "verses": 108,
+            "explanation": "A practical guide to Christian ethics, famously teaching that 'faith without works is dead.'"
+          },
+          {
+            "id": 60,
+            "name": "1 Peter",
+            "author": "Peter",
+            "category": "General Epistles",
+            "date": "AD 64–65",
+            "chapters": 5,
+            "verses": 105,
+            "explanation": "A letter of hope for Christians scattered and suffering under Roman persecution, calling them to live as 'elect exiles.'"
+          },
+          {
+            "id": 61,
+            "name": "2 Peter",
+            "author": "Peter",
+            "category": "General Epistles",
+            "date": "AD 67–68",
+            "chapters": 3,
+            "verses": 61,
+            "explanation": "A warning against false teachers who deny the second coming of Christ. It affirms the reliability of the Scriptures."
+          },
+          {
+            "id": 62,
+            "name": "1 John",
+            "author": "John (Apostle)",
+            "category": "General Epistles",
+            "date": "AD 90–95",
+            "chapters": 5,
+            "verses": 105,
+            "explanation": "Writes to give believers assurance of their salvation based on their love for others and their belief that Jesus is the Son of God."
+          },
+          {
+            "id": 63,
+            "name": "2 John",
+            "author": "John (Apostle)",
+            "category": "General Epistles",
+            "date": "AD 90–95",
+            "chapters": 1,
+            "verses": 13,
+            "explanation": "A brief warning to a local church to walk in the truth and not to show hospitality to false teachers who deny Christ."
+          },
+          {
+            "id": 64,
+            "name": "3 John",
+            "author": "John (Apostle)",
+            "category": "General Epistles",
+            "date": "AD 90–95",
+            "chapters": 1,
+            "verses": 14,
+            "explanation": "A personal letter to Gaius, praising him for his hospitality and warning against a proud leader named Diotrephes."
+          },
+          {
+            "id": 65,
+            "name": "Jude",
+            "author": "Jude",
+            "category": "General Epistles",
+            "date": "AD 65–80",
+            "chapters": 1,
+            "verses": 25,
+            "explanation": "A short, urgent call to 'contend for the faith' against godless men who have slipped into the church unnoticed."
+          },
+          {
+            "id": 66,
+            "name": "Revelation",
+            "author": "John (Apostle)",
+            "category": "Apocalyptic Literature",
+            "date": "AD 95–96",
+            "chapters": 22,
+            "verses": 404,
+            "explanation": "An apocalyptic vision of the spiritual war between good and evil, the return of Christ, and the creation of a New Heaven and New Earth."
+          }
+        ]
+      }
+    ]
   }
-]
-
-2. Exodusbooks-of-the-bible-exodus
-God saves Israel from slavery in Egypt, and then enters into a special relationship with them.
-
-Author: Traditionally Moses
-
-3. Leviticusbooks-of-the-bible-leviticus
-God gives Israel instructions for how to worship Him.
-
-Author: traditionally Moses
-
-4. Numbersbooks-of-the-bible-numbers
-Israel fails to trust and obey God, and wanders in the wilderness for 40 years.
-
-Author: Traditionally Moses
-
-5. Deuteronomybooks-of-the-bible-deuteronomy
-Moses gives Israel instructions (in some ways, a recap of the laws in Exodus–Numbers) for how to love and obey God in the Promised Land.
-
-Author: Traditionally Moses
-
-6. Joshuabooks-of-the-bible-joshua
-Joshua (Israel’s new leader) leads Israel to conquer the Promised land, then parcels out territories to the twelve tribes of Israel.
-
-Author: Nobody knows
-
-Fun fact: You’ve probably heard of a few fantastic stories from this book (the Battle of Jericho and the day the sun stood still), but most of the action happens in the first half of this book. The last half is pretty much all about divvying up the real estate.
-
-7. Judgesbooks-of-the-bible-judges
-Israel enters a cycle of turning from God, falling captive to oppressive nations, calling out to God, and being rescued by leaders God sends their way (called “judges”).
-
-Author: Nobody knows
-
-8. Ruthbooks-of-the-bible-ruth
-Two widows lose everything, and find hope in Israel—which leads to the birth of the future King David.
-
-Author: Nobody knows
-
-9. 1 Samuelbooks-of-the-bible-samuel
-Israel demands a king, who turns out to be quite a disappointment.
-
-Author: Nobody knows
-
-10. 2 Samuel
- 
-
-David, a man after God’s own heart, becomes king of Israel.
-
-Author: Nobody knows
-
-11. 1 Kingsbooks-of-the-bible-kings
-The kingdom of Israel has a time of peace and prosperity under King Solomon, but afterward splits, and the two lines of kings turn away from God.
-
-Author: Nobody knows
-
-12. 2 Kings
-Both kingdoms ignore God and his prophets, until they both fall captive to other world empires.
-
-Author: Nobody knows
-
-13. 1 Chroniclesbooks-of-the-bible-chronicles
-This is a brief history of Israel from Adam to David, culminating with David commissioning the temple of God in Jerusalem.
-
-Author: Traditionally Ezra
-
-14. 2 Chronicles
-David’s son Solomon builds the temple, but after centuries of rejecting God, the Babylonians take the southern Israelites captive and destroy the temple.
-
-Author: Traditionally Ezra
-
-15. Ezrabooks-of-the-bible-ezra
-The Israelites rebuild the temple in Jerusalem, and a scribe named Ezra teaches the people to once again obey God’s laws.
-
-Author: Ezra
-
-16. Nehemiahbooks-of-the-bible-nehemiah
-The city of Jerusalem is in bad shape, so Nehemiah rebuilds the wall around the city.
-
-Author: Nehemiah
-
-17. Estherbooks-of-the-bible-esther
-Someone hatches a genocidal plot to bring about Israel’s extinction, and Esther must face the emperor to ask for help.
-
-Author: Nobody knows
-
-Books of Poetry in the Old Testament
-
-
-18. Jobbooks-of-the-bible-job
-Satan attacks a righteous man named Job, and Job and his friends argue about why terrible things are happening to him.
-
-Author: Nobody knows
-
-19. Psalmsbooks-of-the-bible-psalms
-A collection of 150 songs that Israel sang to God (and to each other)—kind of like a hymnal for the ancient Israelites.
-
-Author: So many authors—meet them all here!
-
-20. Proverbsbooks-of-the-bible-proverbs
-A collection of sayings written to help people make wise decisions that bring about justice.
-
-Author: Solomon and other wise men
-
-21. Ecclesiastesbooks-of-the-bible-ecclesiastes
-A philosophical exploration of the meaning of life—with a surprisingly nihilistic tone for the Bible.
-
-Author: Traditionally Solomon
-
-22. Song of Solomon (Song of Songs)books-of-the-bible-song-of-solomon
-A love song (or collection of love songs) celebrating love, desire, and marriage.
-
-Author: Traditionally Solomon (but it could have been written about Solomon, or in the style of Solomon)
-
-Books of prophecy in the Old Testament
-
-
-23. Isaiahbooks-of-the-bible-isaiah
-God sends the prophet Isaiah to warn Israel of future judgment—but also to tell them about a coming king and servant who will “bear the sins of many.”
-
-Author: Isaiah (and maybe some of his followers)
-
-24. Jeremiahbooks-of-the-bible-jeremiah
-God sends a prophet to warn Israel about the coming Babylonian captivity, but the people don’t take the news very well.
-
-Author: Jeremiah
-
-25. Lamentations books-of-the-bible-lamentations
-A collection of dirges lamenting the fall of Jerusalem after the Babylonian attacks.
-
-Author: Traditionally Jeremiah
-
-26. Ezekielbooks-of-the-bible-ezekiel
-God chooses a man to speak for Him to Israel, to tell them the error of their ways and teach them justice: Ezekiel.
-
-Author: Ezekiel
-
-27. Danielbooks-of-the-bible-daniel
-Daniel becomes a high-ranking wise man in the Babylonian and Persian empires, and has prophetic visions concerning Israel’s future.
-
-Author: Daniel (with other contributors)
-
-28. Hoseabooks-of-the-bible-hosea
-Hosea is told to marry a prostitute who leaves him, and he must bring her back: a picture of God’s relationship with Israel.
-
-Author: Hosea
-
-29. Joelbooks-of-the-bible-joel
-God sends a plague of locusts to Judge Israel, but his judgment on the surrounding nations is coming, too.
-
-Author: Joel
-
-30. Amosbooks-of-the-bible-amos
-A shepherd named Amos preaches against the injustice of the Northern Kingdom of Israel.
-
-Author: Amos
-
-31. Obadiahbooks-of-the-bible-obadiah
-Obadiah warns the neighboring nation of Edom that they will be judged for plundering Jerusalem.
-
-Author: Obadiah
-
-32. Jonahbooks-of-the-bible-jonah
-A disobedient prophet runs from God, is swallowed by a great fish, and then preaches God’s message to the city of Nineveh.
-
-Author: Traditionally Jonah
-
-33. Micahbooks-of-the-bible-micah
-Micah confronts the leaders of Israel and Judah regarding their injustice, and prophecies that one day the Lord himself will rule in perfect justice.
-
-Author: Micah
-
-34. Nahumbooks-of-the-bible-nahum
-Nahum foretells of God’s judgment on Nineveh, the capital of Assyria.
-
-Author: Nahum
-
-35. Habakkukbooks-of-the-bible-habakkuk
-Habakkuk pleads with God to stop the injustice and violence in Judah, but is surprised to find that God will use the even more violent Babylonians to do so.
-
-Author: Habakkuk
-
-36. Zephaniahbooks-of-the-bible-zephaniah
-God warns that he will judge Israel and the surrounding nations, but also that he will restore them in peace and justice.
-
-Author: Zephaniah
-
-37. Haggaibooks-of-the-bible-haggai
-The people have abandoned the work of restoring God’s temple in Jerusalem, and so Haggai takes them to task.
-
-Author: Haggai
-
-38. Zechariahbooks-of-the-bible-zechariah
-The prophet Zechariah calls Israel to return to God, and records prophetic visions that show what’s happening behind the scenes.
-
-39. Malachibooks-of-the-bible-malachi
-God has been faithful to Israel, but they continue to live disconnected from him—so God sends Malachi to call them out.
-
-New Testament books of the Bible
-The New Testament includes 27 books about Jesus’ ministry and what it means to follow him. The first four books of the New Testament are called the Gospels.
-
-
-40. The Gospel of Matthewbooks-of-the-bible-matthew
-This is an account of Jesus’ life, death, and resurrection, focusing on Jesus’ role as the true king of the Jews.
-
-Author: Matthew
-
-41. The Gospel of Markbooks-of-the-bible-mark
-This brief account of Jesus’ earthly ministry highlights Jesus’ authority and servanthood.
-
-Author: John Mark
-
-42. The Gospel of Lukebooks-of-the-bible-luke
-Luke writes the most thorough account of Jesus’ life, pulling together eyewitness testimonies to tell the full story of Jesus.
-
-Author: Luke
-
-43. The Gospel of Johnbooks-of-the-bible-john
-John lists stories of signs and miracles with the hope that readers will believe in Jesus.
-
-Author: John
-
-44. Actsbooks-of-the-bible-acts
-Jesus returns to the Father, the Holy Spirit comes to the church, and the gospel of Jesus spreads throughout the world.
-
-Author: Luke
-
-Paul’s epistles
-
-
-45. Romansbooks-of-the-bible-romans
-Paul summarizes how the gospel of Jesus works in a letter to the churches at Rome, where he plans to visit.
-
-Author: Paul
-
-46. 1 Corinthiansbooks-of-the-bible-1-corinthians
-Paul writes a disciplinary letter to a fractured church in Corinth, and answers some questions that they’ve had about how Christians should behave.
-
-Author: Paul
-
-47. 2 Corinthiansbooks-of-the-bible-2-corinthians
-Paul writes a letter of reconciliation to the church at Corinth, and clears up some concerns that they have.
-
-Author: Paul
-
-48. Galatiansbooks-of-the-bible-galatians
-Paul hears that the Galatian churches have been lead to think that salvation comes from the law of Moses, and writes a (rather heated) letter telling them where the false teachers have it wrong.
-
-Author: Paul
-
-49. Ephesiansbooks-of-the-bible-ephesians
-Paul writes to the church at Ephesus about how to walk in grace, peace, and love.
-
-Author: Paul
-
-50. Philippiansbooks-of-the-bible-philippians
-An encouraging letter to the church of Philippi from Paul, telling them how to have joy in Christ.
-
-Author: Paul
-
-51. Colossiansbooks-of-the-bible-colossians
-Paul writes the church at Colossae a letter about who they are in Christ, and how to walk in Christ.
-
-Author: Paul
-
-52. 1 Thessaloniansbooks-of-the-bible-1-thessalonians
-Paul has heard a good report on the church at Thessalonica, and encourages them to “excel still more” in faith, hope, and love.
-
-Author: Paul
-
-53. 2 Thessaloniansbooks-of-the-bible-2-thessalonians
-Paul instructs the Thessalonians on how to stand firm until the coming of Jesus.
-
-Author: Paul
-
-54. 1 Timothybooks-of-the-bible-1-timothy
-Paul gives his protegé Timothy instruction on how to lead a church with sound teaching and a godly example.
-
-Author: Paul
-
-55. 2 Timothybooks-of-the-bible-2-timothy
-Paul is nearing the end of his life, and encourages Timothy to continue preaching the word.
-
-Author: Paul
-
-56. Titusbooks-of-the-bible-titus
-Paul advises Titus on how to lead orderly, counter-cultural churches on the island of Crete.
-
-Author: Paul
-
-57. Philemonbooks-of-the-bible-philemon
-Paul strongly recommends that Philemon accept his runaway slave as a brother, not a slave.
-
-Author: Paul
-
-The general, or Catholic, epistles
-
-
-58. Hebrewsbooks-of-the-bible-hebrews
-A letter encouraging Christians to cling to Christ despite persecution, because he is greater.
-
-Author: Nobody knows
-
-59. Jamesbooks-of-the-bible-james
-A letter telling Christians to live in ways that demonstrate their faith in action.
-
-Author: James (likely the brother of Jesus)
-
-60. 1 Peterbooks-of-the-bible-1-peter
-Peter writes to Christians who are being persecuted, encouraging them to testify to the truth and live accordingly.
-
-Author: Peter
-
-61. 2 Peterbooks-of-the-bible-2-peter
-Peter writes a letter reminding Christians about the truth of Jesus, and warning them that false teachers will come.
-
-Author: Peter
-
-62. 1 Johnbooks-of-the-bible-1-john
-John writes a letter to Christians about keeping Jesus’ commands, loving one another, and important things they should know.
-
-Author: John
-
-63. 2 Johnbooks-of-the-bible-2-john
-A very brief letter about walking in truth, love, and obedience.
-
-Author: John
-
-64. 3 Johnbooks-of-the-bible-3-john
-An even shorter letter about Christian fellowship.
-
-Author: John
-
-65. Judebooks-of-the-bible-jude
-A letter encouraging Christians to contend for the faith, even though ungodly persons have crept in unnoticed.
-
-Author: Jude
-
-66. Revelationbooks-of-the-bible-revelation
-John sees visions of things that have been, things that are, and things that are yet to come.
-
-Author: John
-
- 
+}
