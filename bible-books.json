@@ -428,7 +428,7 @@
             "date": "520–480 BC",
             "chapters": 14,
             "verses": 211,
-            "explanation": "Encouragement for the Temple builders through visions and prophecies of the Messiah’s entry into Jerusalem on a donkey."
+            "explanation": "Encouragement for the Temple builders through visions and prophecies of the Messiah’s entry into Jerusalem on a donkey. "
           },
           {
             "id": 39,
@@ -453,7 +453,8 @@
             "date": "AD 50–60",
             "chapters": 28,
             "verses": 1071,
-            "explanation": "Presents Jesus as the Messiah-King. Features the Sermon on the Mount and many parables of the Kingdom, like the Sower and the Hidden Treasure."
+            "explanation": "Presents Jesus as the Messiah-King. Features the Sermon on the Mount and many parables of the Kingdom, like the Sower and the Hidden Treasure.",
+            "description": "Traditionally attributed to Matthew (Levi), the tax collector and one of the 12 apostles. Scholars generally believe the author was a Jewish Christian writing for a similar audience, likely using Mark as a source."
           },
           {
             "id": 41,
@@ -463,7 +464,8 @@
             "date": "AD 50–60",
             "chapters": 16,
             "verses": 678,
-            "explanation": "The shortest Gospel, focusing on Jesus as the Suffering Servant. It emphasizes Jesus’ actions and miracles over His long discourses."
+            "explanation": "The shortest Gospel, focusing on Jesus as the Suffering Servant. It emphasizes Jesus’ actions and miracles over His long discourses.",
+            "description": "Traditionally attributed to John Mark, a companion of the Apostle Peter. It is believed to be the first Gospel written (c. 70 AD) and likely reflects Peter's testimonies."
           },
           {
             "id": 42,
@@ -473,7 +475,8 @@
             "date": "AD 60–61",
             "chapters": 24,
             "verses": 1151,
-            "explanation": "The most detailed Gospel. Contains unique parables like the Good Samaritan and the Prodigal Son, emphasizing Jesus’ concern for the outcast."
+            "explanation": "The most detailed Gospel. Contains unique parables like the Good Samaritan and the Prodigal Son, emphasizing Jesus’ concern for the outcast.",
+            "description": "Traditionally attributed to Luke, a Gentile physician and traveling companion of the Apostle Paul. The author also wrote the Book of Acts."
           },
           {
             "id": 43,
@@ -483,7 +486,8 @@
             "date": "AD 80–90",
             "chapters": 21,
             "verses": 879,
-            "explanation": "Focuses on the deity of Jesus through seven 'I Am' statements and seven signs. It includes the famous conversation with Nicodemus (John 3)."
+            "explanation": "Focuses on the deity of Jesus through seven 'I Am' statements and seven signs. It includes the famous conversation with Nicodemus (John 3).",
+            "description": "Traditionally attributed to John, the 'beloved disciple' and one of the 12 apostles. It is considered the latest Gospel (c. 90–100 AD) and differs significantly from the other three."
           },
           {
             "id": 44,
