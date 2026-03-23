@@ -58,7 +58,8 @@
             "date": "1445–1405 BC",
             "chapters": 50,
             "verses": 1533,
-            "explanation": "The book of beginnings. Covers the Creation, the Fall of man, Noah’s Flood, the Tower of Babel, and the lives of the patriarchs Abraham, Isaac, Jacob, and Joseph."
+            "explanation": "The book of beginnings. Covers the Creation, the Fall of man, Noah’s Flood, the Tower of Babel, and the lives of the patriarchs Abraham, Isaac, Jacob, and Joseph.",
+            "explanation-ext": ""
           },
           {
             "id": 2,
@@ -68,7 +69,8 @@
             "date": "1445–1405 BC",
             "chapters": 40,
             "verses": 1213,
-            "explanation": "God delivers Israel from slavery. Key events: The birth of Moses, the burning bush, the Ten Plagues of Egypt, the crossing of the Red Sea, and the giving of the Ten Commandments at Sinai."
+            "explanation": "God delivers Israel from slavery. Key events: The birth of Moses, the burning bush, the Ten Plagues of Egypt, the crossing of the Red Sea, and the giving of the Ten Commandments at Sinai.",
+            "explanation-ext": "God saves Israel from slavery in Egypt, and then enters into a special relationship with them."
           },
           {
             "id": 3,

@@ -1,0 +1,147 @@
+[
+  {
+    "category": "The Twelve Apostles & Matthias",
+    "members": [
+      {
+        "name": "Simon Peter",
+        "death": "c. 64–67 AD, Rome; Crucified upside down",
+        "churches_founded": ["Church of Antioch", "Church of Rome"]
+      },
+      {
+        "name": "Andrew",
+        "death": "c. 60–70 AD, Patras, Greece; Crucified (X-shaped)",
+        "churches_founded": ["Church of Constantinople", "Church of Patras"]
+      },
+      {
+        "name": "James, son of Zebedee",
+        "death": "c. 44 AD, Jerusalem; Beheaded by Herod Agrippa I",
+        "churches_founded": ["Church of Jerusalem (co-founder)"]
+      },
+      {
+        "name": "John, son of Zebedee",
+        "death": "c. 98–100 AD, Ephesus; Natural causes",
+        "churches_founded": ["Church of Ephesus", "Seven Churches of Asia"]
+      },
+      {
+        "name": "Philip",
+        "death": "c. 80 AD, Hierapolis; Crucified or stoned",
+        "churches_founded": ["Churches in Phrygia and Scythia"]
+      },
+      {
+        "name": "Bartholomew (Nathanael)",
+        "death": "c. 70 AD, Armenia; Flayed alive and beheaded",
+        "churches_founded": ["Armenian Apostolic Church"]
+      },
+      {
+        "name": "Thomas",
+        "death": "c. 72 AD, India; Speared to death",
+        "churches_founded": ["Saint Thomas Christian Churches (India)"]
+      },
+      {
+        "name": "Matthew (Levi)",
+        "death": "c. 60–74 AD, Ethiopia/Persia; Martyred by sword",
+        "churches_founded": ["Churches in Ethiopia and Persia"]
+      },
+      {
+        "name": "James, son of Alphaeus",
+        "death": "c. 62 AD, Jerusalem; Stoned or clubbed",
+        "churches_founded": ["Church of Jerusalem"]
+      },
+      {
+        "name": "Jude Thaddaeus",
+        "death": "c. 65–70 AD, Beirut/Persia; Beaten or axed",
+        "churches_founded": ["Armenian Apostolic Church"]
+      },
+      {
+        "name": "Simon the Zealot",
+        "death": "c. 65–107 AD, Persia/Armenia; Sawn in half",
+        "churches_founded": ["Churches in Egypt and Persia"]
+      },
+      {
+        "name": "Judas Iscariot",
+        "death": "c. 30–33 AD, Jerusalem; Suicide (hanging)",
+        "churches_founded": []
+      },
+      {
+        "name": "Matthias",
+        "death": "c. 80 AD, Jerusalem/Ethiopia; Stoned/beheaded",
+        "churches_founded": ["Churches in Judea and Colchis"]
+      }
+    ]
+  },
+  {
+    "category": "Apostle to the Gentiles",
+    "members": [
+      {
+        "name": "Paul of Tarsus",
+        "birth": "c. 10 AD, Tarsus",
+        "death": "c. 67 AD, Rome; Beheaded by Nero",
+        "churches_founded": [
+          "Churches in Corinth, Ephesus, Philippi, Thessalonica, Galatia"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "The Seven Deacons (Acts 6)",
+    "members": [
+      {
+        "name": "Stephen",
+        "death": "c. 34–35 AD, Jerusalem; Stoned (first martyr)",
+        "role": "Protomartyr"
+      },
+      {
+        "name": "Philip the Evangelist",
+        "death": "c. 58 AD (lived in Caesarea)",
+        "churches_founded": ["Evangelized Samaria and the Ethiopian Eunuch"]
+      },
+      {
+        "name": "Prochorus",
+        "death": "Antioch; Martyred",
+        "role": "Bishop of Nicomedia"
+      },
+      {
+        "name": "Nicanor",
+        "death": "c. 34 AD; Martyred with Stephen",
+        "role": "Deacon"
+      },
+      {
+        "name": "Timon",
+        "death": "Martyred by fire",
+        "role": "Bishop of Bostra"
+      },
+      {
+        "name": "Parmenas",
+        "death": "c. 98 AD; Martyred under Trajan",
+        "role": "Bishop of Soli"
+      },
+      {
+        "name": "Nicolas",
+        "role": "Proselyte of Antioch",
+        "note": "Associated with the Nicolaitans in some traditions"
+      }
+    ]
+  },
+  {
+    "category": "Prominent Female Disciples",
+    "members": [
+      {
+        "name": "Mary Magdalene",
+        "role": "Apostle to the Apostles",
+        "note": "First witness to the Resurrection"
+      },
+      {
+        "name": "Joanna",
+        "note": "Wife of Chuza (Herod's steward); financial supporter"
+      },
+      {
+        "name": "Susanna",
+        "note": "Mentioned in Luke 8:3 as a financial supporter"
+      },
+      {
+        "name": "Mary of Bethany",
+        "note": "Sister of Martha and Lazarus; devoted student"
+      }
+    ]
+  }
+]
