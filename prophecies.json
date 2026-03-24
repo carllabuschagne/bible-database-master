@@ -1,0 +1,318 @@
+[
+  {
+    "messianic_prophecies": {
+      "section": "Ancestry and Lineage",
+      "description": "Prophecies narrowing the physical and legal line of the Messiah from humanity to a specific royal family.",
+      "entries": [
+        {
+          "lineage_step": "Seed of a Woman",
+          "prophecy": "Genesis 3:15",
+          "fulfillment": "Galatians 4:4",
+          "description": "The first prophecy (Protoevangelium) stating the Messiah would be born of human offspring to defeat the serpent."
+        },
+        {
+          "lineage_step": "Descendant of Seth",
+          "prophecy": "Genesis 4:25",
+          "fulfillment": "Luke 3:23-38",
+          "description": "The line is preserved through Adam's third son, Seth, after the death of Abel."
+        },
+        {
+          "lineage_step": "Descendant of Shem",
+          "prophecy": "Genesis 9:26-27",
+          "fulfillment": "Luke 3:36",
+          "description": "Noah prophesies that the Lord, the God of Shem, will dwell in his tents."
+        },
+        {
+          "lineage_step": "Seed of Abraham",
+          "prophecy": "Genesis 12:3, 22:18",
+          "fulfillment": "Matthew 1:1, Galatians 3:16",
+          "description": "God promises that through Abraham's 'seed,' all nations of the earth will be blessed."
+        },
+        {
+          "lineage_step": "Seed of Isaac",
+          "prophecy": "Genesis 17:19, 21:12",
+          "fulfillment": "Romans 9:7, Luke 3:34",
+          "description": "The covenant is specifically promised through Isaac, not Ishmael."
+        },
+        {
+          "lineage_step": "Seed of Jacob",
+          "prophecy": "Genesis 28:14, Numbers 24:17",
+          "fulfillment": "Luke 3:34, Matthew 1:2",
+          "description": "The 'Star out of Jacob' narrows the line to the son of Isaac over his brother Esau."
+        },
+        {
+          "lineage_step": "Tribe of Judah",
+          "prophecy": "Genesis 49:10",
+          "fulfillment": "Luke 3:33, Hebrews 7:14",
+          "description": "The 'Scepter' and ruler's staff are promised to remain with the tribe of Judah until 'Shiloh' comes."
+        },
+        {
+          "lineage_step": "Family of Jesse",
+          "prophecy": "Isaiah 11:1, 10",
+          "fulfillment": "Acts 13:22-23, Romans 15:12",
+          "description": "The Messiah is described as a 'Shoot' or 'Branch' from the stump of Jesse (David's father)."
+        },
+        {
+          "lineage_step": "House of David",
+          "prophecy": "2 Samuel 7:12-16, Jeremiah 23:5",
+          "fulfillment": "Matthew 1:1, Romans 1:3",
+          "description": "The most specific lineage prophecy: the Messiah must be a physical heir to King David's eternal throne."
+        },
+        {
+          "lineage_step": "Descendant of Zerubbabel",
+          "prophecy": "Haggai 2:23",
+          "fulfillment": "Matthew 1:12, Luke 3:27",
+          "description": "The 'signet ring' promise to Zerubbabel continues the Davidic line after the Babylonian exile."
+        }
+      ]
+    }
+  },
+  {
+    "messianic_prophecies": {
+      "section": "Birth and Early Life",
+      "description": "Prophecies detailing the miraculous arrival, specific locations, and events following the Messiah's birth.",
+      "entries": [
+        {
+          "event": "Born of a Virgin",
+          "prophecy": "Isaiah 7:14",
+          "fulfillment": "Matthew 1:18-23",
+          "description": "The Lord would give a sign: a virgin would conceive and bear a son called Immanuel (God with us)."
+        },
+        {
+          "event": "Birth in Bethlehem",
+          "prophecy": "Micah 5:2",
+          "fulfillment": "Matthew 2:1-6",
+          "description": "Though small among the clans of Judah, Bethlehem would produce the ruler of Israel whose origins are from of old."
+        },
+        {
+          "event": "A Star in the East",
+          "prophecy": "Numbers 24:17",
+          "fulfillment": "Matthew 2:1-2",
+          "description": "A 'Star' would come out of Jacob to signify the arrival of the King."
+        },
+        {
+          "event": "Worshipped by Kings with Gifts",
+          "prophecy": "Psalm 72:10-11",
+          "fulfillment": "Matthew 2:11",
+          "description": "Kings from distant shores would bring tribute and present him with gifts."
+        },
+        {
+          "event": "Slaughter of the Infants",
+          "prophecy": "Jeremiah 31:15",
+          "fulfillment": "Matthew 2:16-18",
+          "description": "A voice heard in Ramah, weeping for children who are no more, fulfilled by Herod's attempt to kill Jesus."
+        },
+        {
+          "event": "Flight to and Return from Egypt",
+          "prophecy": "Hosea 11:1",
+          "fulfillment": "Matthew 2:13-15",
+          "description": "God would call His son out of Egypt, fulfilled when the family fled Herod's persecution."
+        },
+        {
+          "event": "Preceded by a Forerunner",
+          "prophecy": "Isaiah 40:3, Malachi 3:1",
+          "fulfillment": "Matthew 3:1-3",
+          "description": "A voice in the wilderness would prepare the way for the Lord (fulfilled by John the Baptist)."
+        },
+        {
+          "event": "He Would be Called a Nazarene",
+          "prophecy": "Isaiah 11:1 (Netzer)",
+          "fulfillment": "Matthew 2:23",
+          "description": "Prophets foretold he would be called a Nazarene, potentially a play on the Hebrew word for 'Branch' (Netzer)."
+        }
+      ]
+    }
+  },
+  {
+    "messianic_prophecies": {
+      "section": "Ministry and Mission",
+      "description": "Prophecies detailing the Messiah's public service, miracles, and methods of teaching.",
+      "entries": [
+        {
+          "event": "Preceded by a Messenger",
+          "prophecy": "Malachi 3:1",
+          "fulfillment": "Matthew 11:7-10",
+          "description": "A messenger would prepare the way before the Lord arrives at His temple."
+        },
+        {
+          "event": "Anointed by the Holy Spirit",
+          "prophecy": "Isaiah 11:2, 61:1",
+          "fulfillment": "Matthew 3:16-17",
+          "description": "The Spirit of the Lord would rest upon him to preach good news to the poor."
+        },
+        {
+          "event": "Ministry in Galilee",
+          "prophecy": "Isaiah 9:1-2",
+          "fulfillment": "Matthew 4:13-16",
+          "description": "Light would dawn on the land of Zebulun and Naphtali (Galilee), a region traditionally overlooked."
+        },
+        {
+          "event": "Performs Miracles of Healing",
+          "prophecy": "Isaiah 35:5-6",
+          "fulfillment": "Matthew 11:4-5",
+          "description": "The eyes of the blind would be opened, the ears of the deaf unstopped, and the lame would leap."
+        },
+        {
+          "event": "Teacher in Parables",
+          "prophecy": "Psalm 78:2",
+          "fulfillment": "Matthew 13:34-35",
+          "description": "He would speak in parables and utter things hidden since the creation of the world."
+        },
+        {
+          "event": "A Prophet Like Moses",
+          "prophecy": "Deuteronomy 18:15-18",
+          "fulfillment": "John 6:14, Acts 3:20-22",
+          "description": "God would raise up a prophet from among the Israelites whom the people must listen to."
+        },
+        {
+          "event": "Gentiles Would Seek Him",
+          "prophecy": "Isaiah 11:10, 42:6",
+          "fulfillment": "John 12:20-21, Acts 13:47-48",
+          "description": "The Messiah would be a light to the Gentiles and a banner for all nations."
+        },
+        {
+          "event": "Enters the Temple with Authority",
+          "prophecy": "Malachi 3:1",
+          "fulfillment": "Matthew 21:12",
+          "description": "The Lord would suddenly come to His temple to purify it."
+        },
+        {
+          "event": "Zeal for God’s House",
+          "prophecy": "Psalm 69:9",
+          "fulfillment": "John 2:17",
+          "description": "Consumption by zeal for the Father’s house would characterize his ministry."
+        }
+      ]
+    }
+  },
+  {
+    "messianic_prophecies": {
+      "section": "Passion and Death",
+      "description": "Prophecies detailing the Messiah's betrayal, trial, physical suffering, and specific circumstances of his execution.",
+      "entries": [
+        {
+          "event": "Triumphal Entry on a Donkey",
+          "prophecy": "Zechariah 9:9",
+          "fulfillment": "Matthew 21:4-9",
+          "description": "The King would come to Jerusalem righteous and victorious, lowly and riding on a donkey."
+        },
+        {
+          "event": "Betrayed by a Close Friend",
+          "prophecy": "Psalm 41:9",
+          "fulfillment": "Luke 22:47-48",
+          "description": "Even a close friend, whom the Messiah trusted and shared bread with, would turn against him."
+        },
+        {
+          "event": "Sold for 30 Pieces of Silver",
+          "prophecy": "Zechariah 11:12",
+          "fulfillment": "Matthew 26:15",
+          "description": "The exact price paid to the betrayer was foretold centuries in advance."
+        },
+        {
+          "event": "Money Thrown into the Temple",
+          "prophecy": "Zechariah 11:13",
+          "fulfillment": "Matthew 27:5",
+          "description": "The betrayal money would be thrown into the house of the Lord and used to buy a potter’s field."
+        },
+        {
+          "event": "Silent Before Accusers",
+          "prophecy": "Isaiah 53:7",
+          "fulfillment": "Matthew 27:12-14",
+          "description": "Like a lamb to the slaughter, he would not open his mouth to defend himself during his trial."
+        },
+        {
+          "event": "Spat Upon and Beaten",
+          "prophecy": "Isaiah 50:6",
+          "fulfillment": "Matthew 26:67",
+          "description": "He would offer his back to those who beat him and his cheeks to those who pulled out his beard."
+        },
+        {
+          "event": "Hands and Feet Pierced",
+          "prophecy": "Psalm 22:16",
+          "fulfillment": "John 20:25-27",
+          "description": "A description of death by piercing, written long before crucifixion was a common Roman practice."
+        },
+        {
+          "event": "Lots Cast for His Clothing",
+          "prophecy": "Psalm 22:18",
+          "fulfillment": "John 19:23-24",
+          "description": "Soldiers would divide his garments among them and cast lots for his seamless undergarment."
+        },
+        {
+          "event": "Gall and Vinegar Offered",
+          "prophecy": "Psalm 69:21",
+          "fulfillment": "Matthew 27:34",
+          "description": "During his thirst on the cross, he was offered vinegar mixed with gall."
+        },
+        {
+          "event": "Bones Not Broken",
+          "prophecy": "Psalm 34:20",
+          "fulfillment": "John 19:32-36",
+          "description": "While soldiers typically broke the legs of the crucified to hasten death, the Messiah’s bones remained intact."
+        },
+        {
+          "event": "Buried with the Rich",
+          "prophecy": "Isaiah 53:9",
+          "fulfillment": "Matthew 27:57-60",
+          "description": "Though he died with criminals, he was assigned a grave with the rich (the tomb of Joseph of Arimathea)."
+        }
+      ]
+    }
+  },
+  {
+    "messianic_prophecies": {
+      "section": "Resurrection and Future Reign",
+      "description": "Prophecies concerning the Messiah's victory over the grave, his ascension, and his eventual return to establish an eternal kingdom.",
+      "entries": [
+        {
+          "event": "Resurrection from the Dead",
+          "prophecy": "Psalm 16:10",
+          "fulfillment": "Acts 2:24-32",
+          "description": "God would not leave His Holy One in the grave (Sheol) or allow his body to see decay."
+        },
+        {
+          "event": "Ascension to the Right Hand of God",
+          "prophecy": "Psalm 110:1",
+          "fulfillment": "Mark 16:19",
+          "description": "The Lord said to the Messiah: 'Sit at my right hand until I make your enemies a footstool.'"
+        },
+        {
+          "event": "Ascension on High",
+          "prophecy": "Psalm 68:18",
+          "fulfillment": "Ephesians 4:8",
+          "description": "He would ascend to the heights, leading a parade of captives in his wake."
+        },
+        {
+          "event": "Return on the Clouds",
+          "prophecy": "Daniel 7:13-14",
+          "fulfillment": "Matthew 24:30",
+          "description": "The Son of Man comes with the clouds of heaven to receive an everlasting dominion and kingdom."
+        },
+        {
+          "event": "The Restoration of Israel",
+          "prophecy": "Ezekiel 37:21-25",
+          "fulfillment": "Future Event",
+          "description": "The Messiah (Davidic King) will gather the children of Israel and reign over them in their own land."
+        },
+        {
+          "event": "Universal World Peace",
+          "prophecy": "Isaiah 2:4",
+          "fulfillment": "Revelation 21:4",
+          "description": "He will judge between nations; they will beat swords into plowshares and never train for war again."
+        },
+        {
+          "event": "Every Knee Shall Bow",
+          "prophecy": "Isaiah 45:23",
+          "fulfillment": "Philippians 2:10-11",
+          "description": "God has sworn that every knee will bow and every tongue will acknowledge his authority."
+        },
+        {
+          "event": "Healing of the Nations",
+          "prophecy": "Malachi 4:2",
+          "fulfillment": "Revelation 22:2",
+          "description": "The 'Sun of Righteousness' will rise with healing in his wings for those who revere his name."
+        }
+      ]
+    }
+  }
+]

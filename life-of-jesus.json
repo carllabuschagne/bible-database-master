@@ -1,0 +1,88 @@
+{
+  "timeline_of_jesus_life": [
+    {
+      "era": "Birth and Early Life",
+      "approx_date": "c. 6–4 BCE",
+      "event": "Birth of Jesus in Bethlehem",
+      "sources": ["Matthew 1-2", "Luke 2:1-20"]
+    },
+    {
+      "era": "Birth and Early Life",
+      "approx_date": "c. 6–4 BCE",
+      "event": "Visit by the Magi, flight to Egypt, and return to Nazareth in Galilee",
+      "sources": ["Matthew 2:1-23"]
+    },
+    {
+      "era": "Birth and Early Life",
+      "approx_date": "c. 8 CE",
+      "event": "Jesus at the Temple in Jerusalem at age 12",
+      "sources": ["Luke 2:41-52"]
+    },
+    {
+      "era": "Preparation for Ministry",
+      "approx_date": "c. 26–27 CE",
+      "event": "John the Baptist begins his ministry",
+      "sources": ["Matthew 3:1-12", "Mark 1:1-8", "Luke 3:1-18", "John 1:19-28"]
+    },
+    {
+      "era": "Preparation for Ministry",
+      "approx_date": "c. 26–27 CE",
+      "event": "Jesus is baptized by John in the Jordan River and tempted in the wilderness",
+      "sources": ["Matthew 3:13-4:13", "Mark 1:9-13", "Luke 3:21-4:13"]
+    },
+    {
+      "era": "Public Ministry",
+      "approx_date": "c. 27–30 CE",
+      "event": "Jesus begins his public ministry in Galilee, calls his first disciples, and performs his first miracle (water into wine at Cana)",
+      "sources": ["John 1:35-2:11"]
+    },
+    {
+      "era": "Public Ministry",
+      "approx_date": "c. 27–30 CE",
+      "event": "Sermon on the Mount, teaching in parables, and numerous miracles and healings",
+      "sources": ["Matthew 5-7", "Matthew 13", "Mark 4", "Luke 8"]
+    },
+    {
+      "era": "Public Ministry",
+      "approx_date": "c. 27–30 CE",
+      "event": "Jesus travels to Jerusalem for several Passovers and other feasts (John mentions three Passovers, implying a ministry of at least 2 years)",
+      "sources": ["John 2:13", "John 6:4", "John 13:1"]
+    },
+    {
+      "era": "Public Ministry",
+      "approx_date": "c. 27–30 CE",
+      "event": "The Transfiguration of Jesus on a mountain",
+      "sources": ["Matthew 17:1-13", "Mark 9:2-13", "Luke 9:28-36"]
+    },
+    {
+      "era": "Passion Week and Resurrection",
+      "approx_date": "c. 30–33 CE",
+      "event": "Triumphal Entry into Jerusalem (Palm Sunday), teaching in the Temple, and conflict with Jewish leadership",
+      "sources": ["Matthew 21", "Mark 11", "Luke 19"]
+    },
+    {
+      "era": "Passion Week and Resurrection",
+      "approx_date": "c. 30–33 CE",
+      "event": "The Last Supper with his disciples and prayer in the Garden of Gethsemane",
+      "sources": ["Matthew 26", "Mark 14", "Luke 22", "John 13"]
+    },
+    {
+      "era": "Passion Week and Resurrection",
+      "approx_date": "c. 30–33 CE",
+      "event": "Arrest, trials (before Jewish leaders, Pilate, and Herod), and crucifixion (Good Friday)",
+      "sources": ["Matthew 26-27", "Mark 14-15", "Luke 22-23", "John 18-19"]
+    },
+    {
+      "era": "Passion Week and Resurrection",
+      "approx_date": "c. 30–33 CE",
+      "event": "Resurrection from the dead and appearances to his disciples",
+      "sources": ["Matthew 28", "Mark 16", "Luke 24", "John 20-21"]
+    },
+    {
+      "era": "Passion Week and Resurrection",
+      "approx_date": "c. 30–33 CE",
+      "event": "Ascension into Heaven",
+      "sources": ["Luke 24:50-51", "Acts 1:9-11"]
+    }
+  ]
+}
