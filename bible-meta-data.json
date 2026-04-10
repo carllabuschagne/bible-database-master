@@ -51,7 +51,7 @@
         "name": "Old Testament",
         "books": [
           {
-            "id": 1,
+            "number": 1,
             "name": "Genesis",
             "author": "Moses",
             "category": "Pentateuch",
@@ -59,10 +59,212 @@
             "chapters": 50,
             "verses": 1533,
             "explanation": "The book of beginnings. Covers the Creation, the Fall of man, Noah’s Flood, the Tower of Babel, and the lives of the patriarchs Abraham, Isaac, Jacob, and Joseph.",
-            "explanation-ext": ""
+            "explanation-ext": "",
+            "chapterDescription": [
+              {
+                "chapter": 1,
+                "description": "The creation of the world; God creates light, sky, land, plants, stars, fish, birds, animals, and man."
+              },
+              {
+                "chapter": 2,
+                "description": "The first Sabbath; the formation of man; the Garden of Eden; the creation of woman."
+              },
+              {
+                "chapter": 3,
+                "description": "The serpent's deception; the fall of man; the curse and the expulsion from Eden."
+              },
+              {
+                "chapter": 4,
+                "description": "Cain and Abel; the first murder; the lineage of Cain and the birth of Seth."
+              },
+              {
+                "chapter": 5,
+                "description": "The genealogy from Adam to Noah, documenting the ages and deaths of the patriarchs."
+              },
+              {
+                "chapter": 6,
+                "description": "The wickedness of the world; God instructs Noah to build an ark to survive the flood."
+              },
+              {
+                "chapter": 7,
+                "description": "Noah and his family enter the ark; the Great Flood covers the entire earth."
+              },
+              {
+                "chapter": 8,
+                "description": "The waters recede; Noah sends out a raven and a dove; the ark rests on Ararat; God's covenant."
+              },
+              {
+                "chapter": 9,
+                "description": "God blesses Noah; the rainbow as a covenant sign; Noah's vineyard and his sons."
+              },
+              {
+                "chapter": 10,
+                "description": "The Table of Nations; the descendants of Noah's sons: Shem, Ham, and Japheth."
+              },
+              {
+                "chapter": 11,
+                "description": "The Tower of Babel and the confusion of languages; the lineage of Shem to Abram."
+              },
+              {
+                "chapter": 12,
+                "description": "The call of Abram; God's promise; Abram and Sarai in Egypt."
+              },
+              {
+                "chapter": 13,
+                "description": "Abram and Lot separate; Lot chooses the plain of Jordan; God renews the promise to Abram."
+              },
+              {
+                "chapter": 14,
+                "description": "The war of the kings; Lot is captured and rescued by Abram; Melchizedek blesses Abram."
+              },
+              {
+                "chapter": 15,
+                "description": "God's formal covenant with Abram; the promise of an heir and the land of Canaan."
+              },
+              {
+                "chapter": 16,
+                "description": "Sarai gives Hagar to Abram; the birth of Ishmael; Hagar's encounter with the angel."
+              },
+              {
+                "chapter": 17,
+                "description": "The covenant of circumcision; Abram renamed Abraham; Sarai renamed Sarah; Isaac promised."
+              },
+              {
+                "chapter": 18,
+                "description": "Three angels visit Abraham; Sarah's laughter; Abraham intercedes for Sodom."
+              },
+              {
+                "chapter": 19,
+                "description": "The destruction of Sodom and Gomorrah; Lot's escape; the origin of Moab and Ammon."
+              },
+              {
+                "chapter": 20,
+                "description": "Abraham and Sarah at Gerar; Abimelech is warned by God in a dream."
+              },
+              {
+                "chapter": 21,
+                "description": "The birth of Isaac; Hagar and Ishmael sent away; Abraham's treaty with Abimelech."
+              },
+              {
+                "chapter": 22,
+                "description": "The testing of Abraham; the commanded sacrifice of Isaac and God's provision of a ram."
+              },
+              {
+                "chapter": 23,
+                "description": "The death of Sarah; Abraham purchases the cave of Machpelah for a burial place."
+              },
+              {
+                "chapter": 24,
+                "description": "Abraham's servant seeks a wife for Isaac; Rebekah is chosen and brought to Isaac."
+              },
+              {
+                "chapter": 25,
+                "description": "Abraham's death; Ishmael's descendants; the birth of Jacob and Esau; Esau sells his birthright."
+              },
+              {
+                "chapter": 26,
+                "description": "Isaac dwells in Gerar; God's promise to Isaac; Isaac's prosperity and his treaty with Abimelech."
+              },
+              {
+                "chapter": 27,
+                "description": "Jacob deceives Isaac to receive Esau's blessing; Esau's anger and Jacob's flight."
+              },
+              {
+                "chapter": 28,
+                "description": "Jacob's ladder; God's promise at Bethel; Jacob's vow to God."
+              },
+              {
+                "chapter": 29,
+                "description": "Jacob arrives in Padan-aram; he works for Laban to marry Rachel but is given Leah."
+              },
+              {
+                "chapter": 30,
+                "description": "The birth of Jacob’s sons; Jacob’s cleverness in increasing his flocks."
+              },
+              {
+                "chapter": 31,
+                "description": "Jacob flees from Laban; Rachel steals the household idols; Laban pursues and makes a covenant."
+              },
+              {
+                "chapter": 32,
+                "description": "Jacob prepares to meet Esau; he wrestles with an angel and his name is changed to Israel."
+              },
+              {
+                "chapter": 33,
+                "description": "The reconciliation of Jacob and Esau; Jacob settles in Succoth and Shechem."
+              },
+              {
+                "chapter": 34,
+                "description": "The defilement of Dinah; the revenge of Simeon and Levi against the Shechemites."
+              },
+              {
+                "chapter": 35,
+                "description": "Jacob returns to Bethel; death of Rachel and Isaac; the twelve sons of Jacob."
+              },
+              {
+                "chapter": 36,
+                "description": "The genealogy of Esau and the rulers of Edom."
+              },
+              {
+                "chapter": 37,
+                "description": "Joseph’s dreams; his brothers sell him into slavery; Joseph is taken to Egypt."
+              },
+              {
+                "chapter": 38,
+                "description": "The story of Judah and Tamar; the birth of Perez and Zerah."
+              },
+              {
+                "chapter": 39,
+                "description": "Joseph in Potiphar's house; he is falsely accused and cast into prison."
+              },
+              {
+                "chapter": 40,
+                "description": "Joseph interprets the dreams of the butler and the baker in prison."
+              },
+              {
+                "chapter": 41,
+                "description": "Pharaoh’s dreams; Joseph's interpretation; Joseph is promoted to ruler of Egypt."
+              },
+              {
+                "chapter": 42,
+                "description": "The brothers of Joseph go to Egypt to buy grain; Joseph recognizes them."
+              },
+              {
+                "chapter": 43,
+                "description": "The second journey to Egypt with Benjamin; Joseph feasts with his brothers."
+              },
+              {
+                "chapter": 44,
+                "description": "Joseph’s silver cup is found in Benjamin’s sack; Judah’s plea for Benjamin."
+              },
+              {
+                "chapter": 45,
+                "description": "Joseph reveals himself to his brothers; he sends for Jacob to come to Egypt."
+              },
+              {
+                "chapter": 46,
+                "description": "Jacob and his family migrate to Egypt; the meeting of Jacob and Joseph."
+              },
+              {
+                "chapter": 47,
+                "description": "Jacob’s family settles in Goshen; Joseph manages the famine; Jacob’s final request."
+              },
+              {
+                "chapter": 48,
+                "description": "Jacob blesses Joseph’s sons, Ephraim and Manasseh."
+              },
+              {
+                "chapter": 49,
+                "description": "Jacob’s prophetic blessings for his twelve sons; the death of Jacob."
+              },
+              {
+                "chapter": 50,
+                "description": "The burial of Jacob; Joseph’s reassurance to his brothers; the death of Joseph."
+              }
+            ]
           },
           {
-            "id": 2,
+            "number": 2,
             "name": "Exodus",
             "author": "Moses",
             "category": "Pentateuch",
@@ -70,10 +272,11 @@
             "chapters": 40,
             "verses": 1213,
             "explanation": "God delivers Israel from slavery. Key events: The birth of Moses, the burning bush, the Ten Plagues of Egypt, the crossing of the Red Sea, and the giving of the Ten Commandments at Sinai.",
-            "explanation-ext": "God saves Israel from slavery in Egypt, and then enters into a special relationship with them."
+            "explanation-ext": "God saves Israel from slavery in Egypt, and then enters into a special relationship with them.",
+            "chapterDescription": []
           },
           {
-            "id": 3,
+            "number": 3,
             "name": "Leviticus",
             "author": "Moses",
             "category": "Pentateuch",
@@ -83,7 +286,7 @@
             "explanation": "A handbook for priests and a guide for holy living. It details the sacrificial system, dietary laws, and the Day of Atonement rituals."
           },
           {
-            "id": 4,
+            "number": 4,
             "name": "Numbers",
             "author": "Moses",
             "category": "Pentateuch",
@@ -93,7 +296,7 @@
             "explanation": "Records the census of Israel and their 40 years of wandering in the wilderness due to their lack of faith. Includes the story of the bronze serpent and Balaam’s donkey."
           },
           {
-            "id": 5,
+            "number": 5,
             "name": "Deuteronomy",
             "author": "Moses",
             "category": "Pentateuch",
@@ -103,7 +306,7 @@
             "explanation": "Moses’ final sermons to a new generation. He repeats the Law, calls for total devotion to God, and dies on Mount Nebo before Israel enters the Promised Land."
           },
           {
-            "id": 6,
+            "number": 6,
             "name": "Joshua",
             "author": "Joshua",
             "category": "Historical Books",
@@ -113,7 +316,7 @@
             "explanation": "The conquest of Canaan. Key events: The fall of Jericho, the sun standing still, and the division of the land among the twelve tribes."
           },
           {
-            "id": 7,
+            "number": 7,
             "name": "Judges",
             "author": "Samuel (traditionally)",
             "category": "Historical Books",
@@ -123,7 +326,7 @@
             "explanation": "The period before the kings where 'everyone did what was right in his own eyes.' Features the stories of Deborah, Gideon, and Samson’s strength."
           },
           {
-            "id": 8,
+            "number": 8,
             "name": "Ruth",
             "author": "Samuel (traditionally)",
             "category": "Historical Books",
@@ -133,7 +336,7 @@
             "explanation": "A story of loyalty during the time of the Judges. Ruth, a Moabite widow, chooses to follow God and becomes the great-grandmother of King David."
           },
           {
-            "id": 9,
+            "number": 9,
             "name": "1 Samuel",
             "author": "Samuel, Nathan, Gad",
             "category": "Historical Books",
@@ -143,7 +346,7 @@
             "explanation": "The transition from judges to monarchy. Includes Samuel’s call, the rise and fall of King Saul, and the famous battle of David and Goliath."
           },
           {
-            "id": 10,
+            "number": 10,
             "name": "2 Samuel",
             "author": "Nathan, Gad",
             "category": "Historical Books",
@@ -153,7 +356,7 @@
             "explanation": "The story of David’s reign as king. Covers the establishment of Jerusalem, the Davidic Covenant, and David’s sin with Bathsheba."
           },
           {
-            "id": 11,
+            "number": 11,
             "name": "1 Kings",
             "author": "Jeremiah (traditionally)",
             "category": "Historical Books",
@@ -163,7 +366,7 @@
             "explanation": "The peak and decline of the kingdom. Covers Solomon’s wisdom, the building of the Temple, and the division into Israel (North) and Judah (South)."
           },
           {
-            "id": 12,
+            "number": 12,
             "name": "2 Kings",
             "author": "Jeremiah (traditionally)",
             "category": "Historical Books",
@@ -173,7 +376,7 @@
             "explanation": "The downfall of both kingdoms. Features the miracles of Elisha and the eventual exile of Israel to Assyria and Judah to Babylon."
           },
           {
-            "id": 13,
+            "number": 13,
             "name": "1 Chronicles",
             "author": "Ezra (traditionally)",
             "category": "Historical Books",
@@ -183,7 +386,7 @@
             "explanation": "A priestly perspective on history. Focuses on the genealogies from Adam and the spiritual highlights of David’s preparations for the Temple."
           },
           {
-            "id": 14,
+            "number": 14,
             "name": "2 Chronicles",
             "author": "Ezra (traditionally)",
             "category": "Historical Books",
@@ -193,7 +396,7 @@
             "explanation": "Continues the history from Solomon to the decree of Cyrus, focusing on the kings of Judah and their spiritual reforms."
           },
           {
-            "id": 15,
+            "number": 15,
             "name": "Ezra",
             "author": "Ezra",
             "category": "Historical Books",
@@ -203,7 +406,7 @@
             "explanation": "The return of the Jews from exile. Covers the rebuilding of the Temple in Jerusalem and Ezra’s work in teaching the Law."
           },
           {
-            "id": 16,
+            "number": 16,
             "name": "Nehemiah",
             "author": "Nehemiah",
             "category": "Historical Books",
@@ -213,7 +416,7 @@
             "explanation": "Nehemiah leads the effort to rebuild the walls of Jerusalem in just 52 days and institutes social and religious reforms."
           },
           {
-            "id": 17,
+            "number": 17,
             "name": "Esther",
             "author": "Unknown",
             "category": "Historical Books",
@@ -223,7 +426,7 @@
             "explanation": "A Jewish girl becomes Queen of Persia and risks her life to save her people from a plot by Haman. Origin of the feast of Purim."
           },
           {
-            "id": 18,
+            "number": 18,
             "name": "Job",
             "author": "Unknown",
             "category": "Wisdom Literature",
@@ -233,7 +436,7 @@
             "explanation": "A poetic drama exploring why the righteous suffer. Job loses everything but remains faithful, eventually encountering God’s majesty."
           },
           {
-            "id": 19,
+            "number": 19,
             "name": "Psalms",
             "author": "David, others",
             "category": "Wisdom Literature",
@@ -243,7 +446,7 @@
             "explanation": "A collection of 150 poems, songs, and prayers. Many were written by David during his life as a shepherd, fugitive, and king."
           },
           {
-            "id": 20,
+            "number": 20,
             "name": "Proverbs",
             "author": "Solomon, others",
             "category": "Wisdom Literature",
@@ -253,7 +456,7 @@
             "explanation": "Practical wisdom for daily life. Themes include the fear of God, the value of hard work, and the dangers of foolishness."
           },
           {
-            "id": 21,
+            "number": 21,
             "name": "Ecclesiastes",
             "author": "Solomon",
             "category": "Wisdom Literature",
@@ -263,7 +466,7 @@
             "explanation": "A philosophical search for the meaning of life. The author concludes that everything is 'vanity' without a proper relationship with God."
           },
           {
-            "id": 22,
+            "number": 22,
             "name": "Song of Solomon",
             "author": "Solomon",
             "category": "Wisdom Literature",
@@ -273,7 +476,7 @@
             "explanation": "A poetic celebration of the love between a bridegroom and his bride, symbolizing God’s love for His people."
           },
           {
-            "id": 23,
+            "number": 23,
             "name": "Isaiah",
             "author": "Isaiah",
             "category": "Major Prophets",
@@ -283,7 +486,7 @@
             "explanation": "The 'Prince of Prophets.' Contains powerful prophecies of judgment and comfort, specifically predicting the birth and suffering of the Messiah."
           },
           {
-            "id": 24,
+            "number": 24,
             "name": "Jeremiah",
             "author": "Jeremiah",
             "category": "Major Prophets",
@@ -293,7 +496,7 @@
             "explanation": "The weeping prophet. He warned Judah of the coming Babylonian destruction and promised a New Covenant where God's law is written on the heart."
           },
           {
-            "id": 25,
+            "number": 25,
             "name": "Lamentations",
             "author": "Jeremiah",
             "category": "Major Prophets",
@@ -303,7 +506,7 @@
             "explanation": "Five poems mourning the destruction of Jerusalem and the Temple by the Babylonians."
           },
           {
-            "id": 26,
+            "number": 26,
             "name": "Ezekiel",
             "author": "Ezekiel",
             "category": "Major Prophets",
@@ -313,7 +516,7 @@
             "explanation": "Prophecies given while in exile. Known for vivid visions, like the valley of dry bones coming to life and the glory of God leaving the Temple."
           },
           {
-            "id": 27,
+            "number": 27,
             "name": "Daniel",
             "author": "Daniel",
             "category": "Major Prophets",
@@ -323,7 +526,7 @@
             "explanation": "Faithfulness in a foreign land. Stories include the fiery furnace, the lions’ den, and apocalyptic visions of future world empires."
           },
           {
-            "id": 28,
+            "number": 28,
             "name": "Hosea",
             "author": "Hosea",
             "category": "Minor Prophets",
@@ -333,7 +536,7 @@
             "explanation": "Hosea is told to marry an unfaithful wife as a living parable of God’s heartbreaking love for an unfaithful Israel."
           },
           {
-            "id": 29,
+            "number": 29,
             "name": "Joel",
             "author": "Joel",
             "category": "Minor Prophets",
@@ -343,7 +546,7 @@
             "explanation": "Uses a devastating locust plague as a warning of the coming 'Day of the Lord' and promises the future outpouring of the Holy Spirit."
           },
           {
-            "id": 30,
+            "number": 30,
             "name": "Amos",
             "author": "Amos",
             "category": "Minor Prophets",
@@ -353,7 +556,7 @@
             "explanation": "A shepherd-prophet who rebuked the northern kingdom for social injustice, religious hypocrisy, and the oppression of the poor."
           },
           {
-            "id": 31,
+            "number": 31,
             "name": "Obadiah",
             "author": "Obadiah",
             "category": "Minor Prophets",
@@ -363,7 +566,7 @@
             "explanation": "A short prophecy against the nation of Edom for their pride and their gloating over the downfall of Jerusalem."
           },
           {
-            "id": 32,
+            "number": 32,
             "name": "Jonah",
             "author": "Jonah",
             "category": "Minor Prophets",
@@ -373,7 +576,7 @@
             "explanation": "A reluctant prophet is swallowed by a great fish while fleeing God's call to preach repentance to the enemy city of Nineveh."
           },
           {
-            "id": 33,
+            "number": 33,
             "name": "Micah",
             "author": "Micah",
             "category": "Minor Prophets",
@@ -383,7 +586,7 @@
             "explanation": "Predicts the birth of the Messiah in Bethlehem and calls for people to 'do justice, love mercy, and walk humbly with God.'"
           },
           {
-            "id": 34,
+            "number": 34,
             "name": "Nahum",
             "author": "Nahum",
             "category": "Minor Prophets",
@@ -393,7 +596,7 @@
             "explanation": "A prophecy of the certain and final destruction of Nineveh, the capital of the cruel Assyrian empire."
           },
           {
-            "id": 35,
+            "number": 35,
             "name": "Habakkuk",
             "author": "Habakkuk",
             "category": "Minor Prophets",
@@ -403,7 +606,7 @@
             "explanation": "A dialogue where the prophet questions why God uses the wicked Babylonians to judge Judah. It ends with a song of total trust in God."
           },
           {
-            "id": 36,
+            "number": 36,
             "name": "Zephaniah",
             "author": "Zephaniah",
             "category": "Minor Prophets",
@@ -413,7 +616,7 @@
             "explanation": "Warns that the Day of the Lord is near for all nations, but promises that God will rejoice over a repentant remnant with singing."
           },
           {
-            "id": 37,
+            "number": 37,
             "name": "Haggai",
             "author": "Haggai",
             "category": "Minor Prophets",
@@ -423,7 +626,7 @@
             "explanation": "A direct challenge to the returning exiles to stop focusing on their own houses and finish rebuilding God’s Temple."
           },
           {
-            "id": 38,
+            "number": 38,
             "name": "Zechariah",
             "author": "Zechariah",
             "category": "Minor Prophets",
@@ -433,7 +636,7 @@
             "explanation": "Encouragement for the Temple builders through visions and prophecies of the Messiah’s entry into Jerusalem on a donkey. "
           },
           {
-            "id": 39,
+            "number": 39,
             "name": "Malachi",
             "author": "Malachi",
             "category": "Minor Prophets",
@@ -448,7 +651,7 @@
         "name": "New Testament",
         "books": [
           {
-            "id": 40,
+            "number": 40,
             "name": "Matthew",
             "author": "Matthew",
             "category": "Gospels",
@@ -459,7 +662,7 @@
             "description": "Traditionally attributed to Matthew (Levi), the tax collector and one of the 12 apostles. Scholars generally believe the author was a Jewish Christian writing for a similar audience, likely using Mark as a source."
           },
           {
-            "id": 41,
+            "number": 41,
             "name": "Mark",
             "author": "John Mark",
             "category": "Gospels",
@@ -470,7 +673,7 @@
             "description": "Traditionally attributed to John Mark, a companion of the Apostle Peter. It is believed to be the first Gospel written (c. 70 AD) and likely reflects Peter's testimonies."
           },
           {
-            "id": 42,
+            "number": 42,
             "name": "Luke",
             "author": "Luke",
             "category": "Gospels",
@@ -481,7 +684,7 @@
             "description": "Traditionally attributed to Luke, a Gentile physician and traveling companion of the Apostle Paul. The author also wrote the Book of Acts."
           },
           {
-            "id": 43,
+            "number": 43,
             "name": "John",
             "author": "John (Apostle)",
             "category": "Gospels",
@@ -492,7 +695,7 @@
             "description": "Traditionally attributed to John, the 'beloved disciple' and one of the 12 apostles. It is considered the latest Gospel (c. 90–100 AD) and differs significantly from the other three."
           },
           {
-            "id": 44,
+            "number": 44,
             "name": "Acts",
             "author": "Luke",
             "category": "Church History",
@@ -502,7 +705,7 @@
             "explanation": "The history of the early church. Key events: Pentecost, the conversion of Paul, and the spread of the Gospel from Jerusalem to Rome."
           },
           {
-            "id": 45,
+            "number": 45,
             "name": "Romans",
             "author": "Paul",
             "category": "Pauline Epistles",
@@ -512,7 +715,7 @@
             "explanation": "Paul’s masterpiece on theology, explaining how both Jews and Gentiles are justified by faith in Christ rather than by the Law."
           },
           {
-            "id": 46,
+            "number": 46,
             "name": "1 Corinthians",
             "author": "Paul",
             "category": "Pauline Epistles",
@@ -522,7 +725,7 @@
             "explanation": "A letter addressing problems in the Corinthian church, including divisions, lawsuits, and spiritual gifts. Contains the 'Love Chapter' (Ch. 13)."
           },
           {
-            "id": 47,
+            "number": 47,
             "name": "2 Corinthians",
             "author": "Paul",
             "category": "Pauline Epistles",
@@ -532,7 +735,7 @@
             "explanation": "Paul defends his apostolic authority and shares the nature of true ministry, which is often carried out in weakness and suffering."
           },
           {
-            "id": 48,
+            "number": 48,
             "name": "Galatians",
             "author": "Paul",
             "category": "Pauline Epistles",
@@ -542,7 +745,7 @@
             "explanation": "A passionate defense of Christian liberty against those who said believers must still follow Jewish ceremonial laws to be saved."
           },
           {
-            "id": 49,
+            "number": 49,
             "name": "Ephesians",
             "author": "Paul",
             "category": "Pauline Epistles",
@@ -552,7 +755,7 @@
             "explanation": "Explains the believer's position in Christ and the armor of God. Focuses on the unity of the church as the body of Christ."
           },
           {
-            "id": 50,
+            "number": 50,
             "name": "Philippians",
             "author": "Paul",
             "category": "Pauline Epistles",
@@ -562,7 +765,7 @@
             "explanation": "The 'Epistle of Joy,' written from prison. Paul encourages the church to have the same humble mind as Christ."
           },
           {
-            "id": 51,
+            "number": 51,
             "name": "Colossians",
             "author": "Paul",
             "category": "Pauline Epistles",
@@ -572,7 +775,7 @@
             "explanation": "Combats false teachings by exalting the absolute supremacy and sufficiency of Jesus Christ over all other powers."
           },
           {
-            "id": 52,
+            "number": 52,
             "name": "1 Thessalonians",
             "author": "Paul",
             "category": "Pauline Epistles",
@@ -582,7 +785,7 @@
             "explanation": "Encouragement for a young church facing persecution. Provides the clearest teaching on the return of Christ and the 'Rapture'."
           },
           {
-            "id": 53,
+            "number": 53,
             "name": "2 Thessalonians",
             "author": "Paul",
             "category": "Pauline Epistles",
@@ -592,7 +795,7 @@
             "explanation": "Clarifies misunderstandings about the Day of the Lord and warns against idleness while waiting for Christ’s return."
           },
           {
-            "id": 54,
+            "number": 54,
             "name": "1 Timothy",
             "author": "Paul",
             "category": "Pauline Epistles",
@@ -602,7 +805,7 @@
             "explanation": "A 'Pastoral Epistle' giving Timothy instructions on church leadership, the qualifications for elders, and sound doctrine."
           },
           {
-            "id": 55,
+            "number": 55,
             "name": "2 Timothy",
             "author": "Paul",
             "category": "Pauline Epistles",
@@ -612,7 +815,7 @@
             "explanation": "Paul’s final letter before his execution. He encourages Timothy to 'preach the word' and remain faithful until the end."
           },
           {
-            "id": 56,
+            "number": 56,
             "name": "Titus",
             "author": "Paul",
             "category": "Pauline Epistles",
@@ -622,7 +825,7 @@
             "explanation": "Guidance for Titus on the island of Crete regarding church organization and the importance of teaching believers to do good works."
           },
           {
-            "id": 57,
+            "number": 57,
             "name": "Philemon",
             "author": "Paul",
             "category": "Pauline Epistles",
@@ -632,7 +835,7 @@
             "explanation": "A personal appeal to a slave owner to receive his runaway slave, Onesimus, back not as a slave, but as a brother in Christ."
           },
           {
-            "id": 58,
+            "number": 58,
             "name": "Hebrews",
             "author": "Unknown",
             "category": "General Epistles",
@@ -642,7 +845,7 @@
             "explanation": "Shows that Jesus is superior to angels, Moses, and the old sacrificial system. Includes the 'Hall of Faith' in Chapter 11."
           },
           {
-            "id": 59,
+            "number": 59,
             "name": "James",
             "author": "James",
             "category": "General Epistles",
@@ -652,7 +855,7 @@
             "explanation": "A practical guide to Christian ethics, famously teaching that 'faith without works is dead.'"
           },
           {
-            "id": 60,
+            "number": 60,
             "name": "1 Peter",
             "author": "Peter",
             "category": "General Epistles",
@@ -662,7 +865,7 @@
             "explanation": "A letter of hope for Christians scattered and suffering under Roman persecution, calling them to live as 'elect exiles.'"
           },
           {
-            "id": 61,
+            "number": 61,
             "name": "2 Peter",
             "author": "Peter",
             "category": "General Epistles",
@@ -672,7 +875,7 @@
             "explanation": "A warning against false teachers who deny the second coming of Christ. It affirms the reliability of the Scriptures."
           },
           {
-            "id": 62,
+            "number": 62,
             "name": "1 John",
             "author": "John (Apostle)",
             "category": "General Epistles",
@@ -682,7 +885,7 @@
             "explanation": "Writes to give believers assurance of their salvation based on their love for others and their belief that Jesus is the Son of God."
           },
           {
-            "id": 63,
+            "number": 63,
             "name": "2 John",
             "author": "John (Apostle)",
             "category": "General Epistles",
@@ -692,7 +895,7 @@
             "explanation": "A brief warning to a local church to walk in the truth and not to show hospitality to false teachers who deny Christ."
           },
           {
-            "id": 64,
+            "number": 64,
             "name": "3 John",
             "author": "John (Apostle)",
             "category": "General Epistles",
@@ -702,7 +905,7 @@
             "explanation": "A personal letter to Gaius, praising him for his hospitality and warning against a proud leader named Diotrephes."
           },
           {
-            "id": 65,
+            "number": 65,
             "name": "Jude",
             "author": "Jude",
             "category": "General Epistles",
@@ -712,7 +915,7 @@
             "explanation": "A short, urgent call to 'contend for the faith' against godless men who have slipped into the church unnoticed."
           },
           {
-            "id": 66,
+            "number": 66,
             "name": "Revelation",
             "author": "John (Apostle)",
             "category": "Apocalyptic Literature",
