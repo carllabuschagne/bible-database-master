@@ -1,0 +1,54 @@
+{
+  "ten_commandments": [
+    {
+      "number": 1,
+      "commandment": "You shall have no other gods before Me.",
+      "explanation": "Demands exclusive loyalty to the Creator, forbidding the worship of any other deities or putting anything else above God."
+    },
+    {
+      "number": 2,
+      "commandment": "You shall not make idols.",
+      "explanation": "Prohibits creating physical images, statues, or representations of God, as well as bowing down to or worshiping material objects."
+    },
+    {
+      "number": 3,
+      "commandment": "You shall not take the name of the Lord your God in vain.",
+      "explanation": "Forbids using God's name disrespectfully, flippantly, in false oaths, or to justify evil actions."
+    },
+    {
+      "number": 4,
+      "commandment": "Remember the Sabbath day, to keep it holy.",
+      "explanation": "Commands setting aside one day each week for physical rest, spiritual reflection, worship, and family."
+    },
+    {
+      "number": 5,
+      "commandment": "Honor your father and your mother.",
+      "explanation": "Requires showing respect, obedience, and care to parents, which serves as the foundation for a stable society."
+    },
+    {
+      "number": 6,
+      "commandment": "You shall not murder.",
+      "explanation": "Forbids the unlawful, intentional taking of human life, emphasizing the sacred value of every person."
+    },
+    {
+      "number": 7,
+      "commandment": "You shall not commit adultery.",
+      "explanation": "Commands sexual fidelity within the boundaries of marriage to protect the family unit."
+    },
+    {
+      "number": 8,
+      "commandment": "You shall not steal.",
+      "explanation": "Prohibits taking someone else's property, money, or time without permission, establishing the right to personal ownership."
+    },
+    {
+      "number": 9,
+      "commandment": "You shall not bear false witness against your neighbor.",
+      "explanation": "Forbids lying, perjury, slander, and spreading gossip that destroys a person's reputation or misleads justice."
+    },
+    {
+      "number": 10,
+      "commandment": "You shall not covet.",
+      "explanation": "Addresses the inner heart by forbidding a toxic desire or jealousy for someone else's spouse, status, or possessions."
+    }
+  ]
+}
