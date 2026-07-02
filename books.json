@@ -1,0 +1,468 @@
+{
+  "old_testament": [
+    {
+      "book": "Genesis",
+      "category": "Pentateuch / Torah",
+      "author": "Moses",
+      "date_written": "c. 1446–1406 BC",
+      "summary": "Accounts of creation, the fall of humanity, the flood, and the origins of the nation of Israel through the patriarchs Abraham, Isaac, Jacob, and Joseph."
+    },
+    {
+      "book": "Exodus",
+      "category": "Pentateuch / Torah",
+      "author": "Moses",
+      "date_written": "c. 1446–1406 BC",
+      "summary": "The Israelite deliverance from Egyptian slavery, the parting of the Red Sea, the giving of the Ten Commandments at Mount Sinai, and the construction of the Tabernacle."
+    },
+    {
+      "book": "Leviticus",
+      "category": "Pentateuch / Torah",
+      "author": "Moses",
+      "date_written": "c. 1446–1406 BC",
+      "summary": "A handbook of laws, priestly rituals, sacrificial systems, and purity regulations designed to show how a sinful nation can worship a holy God."
+    },
+    {
+      "book": "Numbers",
+      "category": "Pentateuch / Torah",
+      "author": "Moses",
+      "date_written": "c. 1406 BC",
+      "summary": "The census of Israel and the story of their 40 years of wandering in the wilderness due to disbelief and disobedience."
+    },
+    {
+      "book": "Deuteronomy",
+      "category": "Pentateuch / Torah",
+      "author": "Moses",
+      "date_written": "c. 1406 BC",
+      "summary": "A series of farewell sermons by Moses reminding Israel of their covenant with God before they enter the Promised Land."
+    },
+    {
+      "book": "Joshua",
+      "category": "Historical Books",
+      "author": "Joshua (traditionally, with updates by Phinehas or Eleazar)",
+      "date_written": "c. 1400–1370 BC",
+      "summary": "The military conquest and division of the Promised Land among the twelve tribes of Israel under Joshua's leadership."
+    },
+    {
+      "book": "Judges",
+      "category": "Historical Books",
+      "author": "Samuel (traditionally)",
+      "date_written": "c. 1050–1000 BC",
+      "summary": "The history of Israel during a cycle of sin, oppression by enemies, repentance, and deliverance by God-raised military leaders called judges."
+    },
+    {
+      "book": "Ruth",
+      "category": "Historical Books",
+      "author": "Samuel (traditionally)",
+      "date_written": "c. 1000–930 BC",
+      "summary": "A story of loyalty, redemption, and faith involving a Moabite widow who marries Boaz, becoming an ancestor of King David and Jesus Christ."
+    },
+    {
+      "book": "1 Samuel",
+      "category": "Historical Books",
+      "author": "Samuel, Nathan, and Gad",
+      "date_written": "c. 930 BC",
+      "summary": "The transition of Israel from a loose confederation of tribes ruled by judges to a monarchy, featuring Samuel, King Saul, and the rise of David."
+    },
+    {
+      "book": "2 Samuel",
+      "category": "Historical Books",
+      "author": "Nathan and Gad",
+      "date_written": "c. 930 BC",
+      "summary": "The history of King David's reign over Israel, highlighting his military victories, spiritual devotion, and deep moral failures."
+    },
+    {
+      "book": "1 Kings",
+      "category": "Historical Books",
+      "author": "Jeremiah (traditionally)",
+      "date_written": "c. 560–538 BC",
+      "summary": "The reign of King Solomon, the building of the first Temple, the subsequent division of Israel into northern and southern kingdoms, and the ministry of Elijah."
+    },
+    {
+      "book": "2 Kings",
+      "category": "Historical Books",
+      "author": "Jeremiah (traditionally)",
+      "date_written": "c. 560–538 BC",
+      "summary": "The history of the divided kingdoms, the ministry of Elisha, their spiritual decline, and their eventual falls to Assyria (Israel) and Babylon (Judah)."
+    },
+    {
+      "book": "1 Chronicles",
+      "category": "Historical Books",
+      "author": "Ezra (traditionally)",
+      "date_written": "c. 450–400 BC",
+      "summary": "A priestly and genealogical history focusing on the tribe of Judah, the line of David, and the spiritual preparation for the temple construction."
+    },
+    {
+      "book": "2 Chronicles",
+      "category": "Historical Books",
+      "author": "Ezra (traditionally)",
+      "date_written": "c. 450–400 BC",
+      "summary": "The history of Solomon's reign, the building of the Temple, and the spiritual reformations and declines of the Southern Kingdom of Judah."
+    },
+    {
+      "book": "Ezra",
+      "category": "Historical Books",
+      "author": "Ezra",
+      "date_written": "c. 440 BC",
+      "summary": "The return of the Jewish exiles from the Babylonian captivity to Jerusalem and the rebuilding of the second Temple under Zerubbabel and Ezra."
+    },
+    {
+      "book": "Nehemiah",
+      "category": "Historical Books",
+      "author": "Nehemiah",
+      "date_written": "c. 430 BC",
+      "summary": "The rebuilding of Jerusalem's ruined walls under the leadership of Nehemiah amid severe local opposition and structural reforms."
+    },
+    {
+      "book": "Esther",
+      "category": "Historical Books",
+      "author": "Unknown (possibly Mordecai or Ezra)",
+      "date_written": "c. 460–400 BC",
+      "summary": "A Jewish orphan girl becomes queen of Persia and risks her life to save her people from a genocidal plot orchestrated by Haman."
+    },
+    {
+      "book": "Job",
+      "category": "Wisdom and Poetry",
+      "author": "Unknown (traditionally Moses, Job, or Elihu)",
+      "date_written": "Unknown (set in patriarchal times, written c. 10th–6th century BC)",
+      "summary": "A poetic dialogue exploring the problem of human suffering, divine sovereignty, and the limits of human wisdom through the trials of Job."
+    },
+    {
+      "book": "Psalms",
+      "category": "Wisdom and Poetry",
+      "author": "David, Asaph, Sons of Korah, Solomon, Moses, and others",
+      "date_written": "c. 1400–450 BC",
+      "summary": "A collection of 150 songs, prayers, hymns, and poems expressing praise, lament, thanksgiving, and prophecy."
+    },
+    {
+      "book": "Proverbs",
+      "category": "Wisdom and Poetry",
+      "author": "Solomon, Agur, Lemuel, and others",
+      "date_written": "c. 950–700 BC",
+      "summary": "A compilation of practical short sayings and extended poems teaching wisdom, moral behavior, discipline, and the fear of the Lord."
+    },
+    {
+      "book": "Ecclesiastes",
+      "category": "Wisdom and Poetry",
+      "author": "Solomon (traditionally)",
+      "date_written": "c. 935 BC",
+      "summary": "A philosophical evaluation of life, describing earthly achievements and pleasures as temporary vanities without a focus on God."
+    },
+    {
+      "book": "Song of Solomon",
+      "category": "Wisdom and Poetry",
+      "author": "Solomon",
+      "date_written": "c. 950 BC",
+      "summary": "A lyric poem celebrating romantic love, courtship, marriage, and physical intimacy between a bridegroom and his bride."
+    },
+    {
+      "book": "Isaiah",
+      "category": "Major Prophets",
+      "author": "Isaiah",
+      "date_written": "c. 700–680 BC",
+      "summary": "Prophecies of judgement against rebellious nations, the exile of Israel, comfort for the captive remnant, and the coming of the suffering Messiah."
+    },
+    {
+      "book": "Jeremiah",
+      "category": "Major Prophets",
+      "author": "Jeremiah",
+      "date_written": "c. 585–570 BC",
+      "summary": "The warnings of impending Babylonian judgment upon Judah, the call to repentance, and the promise of a future New Covenant."
+    },
+    {
+      "book": "Lamentations",
+      "category": "Major Prophets",
+      "author": "Jeremiah",
+      "date_written": "c. 586 BC",
+      "summary": "A collection of five acrostic dirges mourning the destruction of Jerusalem and the Temple by the Babylonian army."
+    },
+    {
+      "book": "Ezekiel",
+      "category": "Major Prophets",
+      "author": "Ezekiel",
+      "date_written": "c. 571 BC",
+      "summary": "Visions of God's glory departing from Jerusalem due to sin, messages of judgement against foreign nations, and a promise of spiritual restoration and a new temple."
+    },
+    {
+      "book": "Daniel",
+      "category": "Major Prophets",
+      "author": "Daniel",
+      "date_written": "c. 535 BC",
+      "summary": "The history of Jewish exiles in Babylon, Daniel's faithfulness in trials, and apocalyptic visions of future world empires and the ultimate Kingdom of God."
+    },
+    {
+      "book": "Hosea",
+      "category": "Minor Prophets",
+      "author": "Hosea",
+      "date_written": "c. 715 BC",
+      "summary": "An extended metaphor of a prophet's unfaithful marriage to illustrate God's heartbreak over Israel's spiritual adultery and His enduring love."
+    },
+    {
+      "book": "Joel",
+      "category": "Minor Prophets",
+      "author": "Joel",
+      "date_written": "c. 835–500 BC (highly debated)",
+      "summary": "A locust plague used as a warning symbol of the terrifying, impending 'Day of the Lord' alongside a promise of the outpouring of the Holy Spirit."
+    },
+    {
+      "book": "Amos",
+      "category": "Minor Prophets",
+      "author": "Amos",
+      "date_written": "c. 760–750 BC",
+      "summary": "A message of condemnation against the social injustice, hypocrisy, and exploitation of the poor within the affluent northern kingdom of Israel."
+    },
+    {
+      "book": "Obadiah",
+      "category": "Minor Prophets",
+      "author": "Obadiah",
+      "date_written": "c. 586 BC or 840 BC",
+      "summary": "A short prophecy pronouncing doom on the nation of Edom for gloating over and assisting in the destruction of Jerusalem."
+    },
+    {
+      "book": "Jonah",
+      "category": "Minor Prophets",
+      "author": "Jonah",
+      "date_written": "c. 760 BC",
+      "summary": "A narrative about a runaway prophet who gets swallowed by a great fish and reluctantly preaches repentance to Israel's sworn enemies in Nineveh."
+    },
+    {
+      "book": "Micah",
+      "category": "Minor Prophets",
+      "author": "Micah",
+      "date_written": "c. 735–700 BC",
+      "summary": "Indictments against corruption in high places, demands for justice and mercy, and the prophecy that the Messiah would be born in Bethlehem."
+    },
+    {
+      "book": "Nahum",
+      "category": "Minor Prophets",
+      "author": "Nahum",
+      "date_written": "c. 663–612 BC",
+      "summary": "A prophetic oracle predicting the absolute ruin and downfall of Nineveh, the cruel capital city of the Assyrian Empire."
+    },
+    {
+      "book": "Habakkuk",
+      "category": "Minor Prophets",
+      "author": "Habakkuk",
+      "date_written": "c. 605 BC",
+      "summary": "A dialogue between a questioning prophet and God regarding why wickedness goes unpunished and how God can use an even more wicked nation to execute judgment."
+    },
+    {
+      "book": "Zephaniah",
+      "category": "Minor Prophets",
+      "author": "Zephaniah",
+      "date_written": "c. 630–625 BC",
+      "summary": "A fierce warning of global judgment and judgment upon Judah for idolatry, ending with a song of joy for the restored remnant."
+    },
+    {
+      "book": "Haggai",
+      "category": "Minor Prophets",
+      "author": "Haggai",
+      "date_written": "c. 520 BC",
+      "summary": "A direct challenge to the returned exiles to stop prioritizing their own panelled houses and finish rebuilding the abandoned Temple of God."
+    },
+    {
+      "book": "Zechariah",
+      "category": "Minor Prophets",
+      "author": "Zechariah",
+      "date_written": "c. 520–480 BC",
+      "summary": "Encouraging visions to rebuild the Temple, coupled with complex messianic prophecies concerning Christ's first riding on a donkey and His final return."
+    },
+    {
+      "book": "Malachi",
+      "category": "Minor Prophets",
+      "author": "Malachi",
+      "date_written": "c. 430 BC",
+      "summary": "A series of disputations addressing spiritual apathy, corrupt priests, divorce, and withholding tithes, closing with the promise of a future messenger."
+    }
+  ],
+  "new_testament": [
+    {
+      "book": "Matthew",
+      "category": "Gospels",
+      "author": "Matthew (Levi)",
+      "date_written": "c. AD 50–65",
+      "summary": "Presents Jesus as the Messiah, Israel's promised King, focusing heavily on His fulfillment of Old Testament prophecies."
+    },
+    {
+      "book": "Mark",
+      "category": "Gospels",
+      "author": "John Mark",
+      "date_written": "c. AD 55–65",
+      "summary": "A fast-paced, action-oriented account portraying Jesus as the suffering Servant of God who came to serve and die."
+    },
+    {
+      "book": "Luke",
+      "category": "Gospels",
+      "author": "Luke",
+      "date_written": "c. AD 60–61",
+      "summary": "A detailed, orderly historical account presenting Jesus as the perfect Son of Man who came to save the lost."
+    },
+    {
+      "book": "John",
+      "category": "Gospels",
+      "author": "John (the Apostle)",
+      "date_written": "c. AD 80–90",
+      "summary": "A deeply theological account focusing on the divinity of Jesus, presenting Him as the eternal Word made flesh."
+    },
+    {
+      "book": "Acts",
+      "category": "Church History",
+      "author": "Luke",
+      "date_written": "c. AD 62",
+      "summary": "The history of the early Church, the arrival of the Holy Spirit, and the spread of the gospel from Jerusalem to Rome."
+    },
+    {
+      "book": "Romans",
+      "category": "Pauline Epistles",
+      "author": "Paul",
+      "date_written": "c. AD 57",
+      "summary": "A systematic explanation of the gospel, detailing justification by faith, the problem of sin, and Christian living."
+    },
+    {
+      "book": "1 Corinthians",
+      "category": "Pauline Epistles",
+      "author": "Paul",
+      "date_written": "c. AD 55",
+      "summary": "A letter addressing divisions, immorality, spiritual gifts, orderly worship, and the vital doctrine of the resurrection."
+    },
+    {
+      "book": "2 Corinthians",
+      "category": "Pauline Epistles",
+      "author": "Paul",
+      "date_written": "c. AD 56",
+      "summary": "Paul defends his apostolic authority, discusses the ministry of reconciliation, and comforts the church amid trials."
+    },
+    {
+      "book": "Galatians",
+      "category": "Pauline Epistles",
+      "author": "Paul",
+      "date_written": "c. AD 48–49",
+      "summary": "Defends salvation by grace through faith alone against legalists who demanded that Christians follow the Law of Moses."
+    },
+    {
+      "book": "Ephesians",
+      "category": "Pauline Epistles",
+      "author": "Paul",
+      "date_written": "c. AD 60–62",
+      "summary": "Explores the believer's identity in Christ, the spiritual unity of the Church body, and the armor of God."
+    },
+    {
+      "book": "Philippians",
+      "category": "Pauline Epistles",
+      "author": "Paul",
+      "date_written": "c. AD 60–62",
+      "summary": "A joyful letter written from prison, encouraging humility, contentment, and unity based on the model of Christ."
+    },
+    {
+      "book": "Colossians",
+      "category": "Pauline Epistles",
+      "author": "Paul",
+      "date_written": "c. AD 60–62",
+      "summary": "Exalts the absolute supremacy, preeminence, and sufficiency of Jesus Christ over false philosophies and legalism."
+    },
+    {
+      "book": "1 Thessalonians",
+      "category": "Pauline Epistles",
+      "author": "Paul",
+      "date_written": "c. AD 51",
+      "summary": "Praises a young church for its growth and provides encouragement regarding holiness and the second coming of Christ."
+    },
+    {
+      "book": "2 Thessalonians",
+      "category": "Pauline Epistles",
+      "author": "Paul",
+      "date_written": "c. AD 51–52",
+      "summary": "Clarifies misconceptions about the Day of the Lord, warning against idleness and exposing the coming rebellion."
+    },
+    {
+      "book": "1 Timothy",
+      "category": "Pauline Epistles",
+      "author": "Paul",
+      "date_written": "c. AD 62–64",
+      "summary": "Pastoral instructions on church leadership, elder qualifications, prayer, sound doctrine, and dealing with false teachers."
+    },
+    {
+      "book": "2 Timothy",
+      "category": "Pauline Epistles",
+      "author": "Paul",
+      "date_written": "c. AD 66–67",
+      "summary": "Paul's final letter before execution, urging Timothy to stay faithful, preach the Word, and endure hardships."
+    },
+    {
+      "book": "Titus",
+      "category": "Pauline Epistles",
+      "author": "Paul",
+      "date_written": "c. AD 62–64",
+      "summary": "Guidance to a leader on Crete about appointing elders, teaching sound doctrine, and living out good works."
+    },
+    {
+      "book": "Philemon",
+      "category": "Pauline Epistles",
+      "author": "Paul",
+      "date_written": "c. AD 60–62",
+      "summary": "An appeal to a slave owner to receive back his runaway slave, Onesimus, as a beloved brother in Christ."
+    },
+    {
+      "book": "Hebrews",
+      "category": "General Epistles",
+      "author": "Unknown (suggestions include Paul, Luke, Barnabas, Apollos)",
+      "date_written": "c. AD 64–68",
+      "summary": "Demonstrates that Jesus is superior to angels, Moses, and the Old Covenant sacrificial system, urging perseverance."
+    },
+    {
+      "book": "James",
+      "category": "General Epistles",
+      "author": "James (brother of Jesus)",
+      "date_written": "c. AD 44–48",
+      "summary": "A practical guide to living out faith, focusing on trials, controlling the tongue, and taking care of the poor."
+    },
+    {
+      "book": "1 Peter",
+      "category": "General Epistles",
+      "author": "Peter",
+      "date_written": "c. AD 64–65",
+      "summary": "Offers hope and encouragement to scattered Christians facing intense persecution, emphasizing holy living."
+    },
+    {
+      "book": "2 Peter",
+      "category": "General Epistles",
+      "author": "Peter",
+      "date_written": "c. AD 66–67",
+      "summary": "Warns against internal false teachers, affirms the reliability of Scripture, and details the future return of Christ."
+    },
+    {
+      "book": "1 John",
+      "category": "General Epistles",
+      "author": "John (the Apostle)",
+      "date_written": "c. AD 85–90",
+      "summary": "Assures believers of eternal life while teaching that true faith is marked by love, obedience, and sound doctrine."
+    },
+    {
+      "book": "2 John",
+      "category": "General Epistles",
+      "author": "John (the Apostle)",
+      "date_written": "c. AD 85–90",
+      "summary": "A brief letter urging a local congregation to walk in love and truth while refusing hospitality to deceptive teachers."
+    },
+    {
+      "book": "3 John",
+      "category": "General Epistles",
+      "author": "John (the Apostle)",
+      "date_written": "c. AD 85–90",
+      "summary": "Praises Gaius for his hospitality to traveling missionaries and rebukes Diotrephes for his proud, uncooperative behavior."
+    },
+    {
+      "book": "Jude",
+      "category": "General Epistles",
+      "author": "Jude (brother of Jesus)",
+      "date_written": "c. AD 65–80",
+      "summary": "A strong warning urging believers to contend earnestly for the faith against godless people who distort grace."
+    },
+    {
+      "book": "Revelation",
+      "category": "Apocalyptic / Prophecy",
+      "author": "John (the Apostle)",
+      "date_written": "c. AD 95",
+      "summary": "A series of prophetic visions detailing the spiritual war, final judgment, return of Christ, and the new creation."
+    }
+  ]
+}
