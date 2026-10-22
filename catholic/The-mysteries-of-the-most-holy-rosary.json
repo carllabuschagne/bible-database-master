@@ -1,0 +1,122 @@
+[
+  {
+    "set": "Joyful",
+    "sequence": 1,
+    "title": "The Annunciation",
+    "description": "The Angel Gabriel appears to Mary to announce that she will conceive and bear the Son of God, and Mary humbly gives her consent."
+  },
+  {
+    "set": "Joyful",
+    "sequence": 2,
+    "title": "The Visitation",
+    "description": "Mary visits her cousin Elizabeth, who is pregnant with John the Baptist, and Elizabeth recognizes Mary as the Mother of the Lord."
+  },
+  {
+    "set": "Joyful",
+    "sequence": 3,
+    "title": "The Nativity",
+    "description": "Jesus Christ, the Savior of the world, is born in poverty in a stable at Bethlehem."
+  },
+  {
+    "set": "Joyful",
+    "sequence": 4,
+    "title": "The Presentation",
+    "description": "Mary and Joseph present the infant Jesus in the Temple at Jerusalem in accordance with the Law of Moses."
+  },
+  {
+    "set": "Joyful",
+    "sequence": 5,
+    "title": "The Finding in the Temple",
+    "description": "After searching for three days, Mary and Joseph find the twelve-year-old Jesus in the Temple, discussing scripture with the teachers."
+  },
+  {
+    "set": "Luminous",
+    "sequence": 1,
+    "title": "The Baptism in the Jordan",
+    "description": "Jesus is baptized by John, the Holy Spirit descends like a dove, and the Father proclaims Him as His beloved Son."
+  },
+  {
+    "set": "Luminous",
+    "sequence": 2,
+    "title": "The Wedding at Cana",
+    "description": "At Mary's request, Jesus performs His first public miracle by changing water into wine at a wedding feast."
+  },
+  {
+    "set": "Luminous",
+    "sequence": 3,
+    "title": "The Proclamation of the Kingdom",
+    "description": "Jesus preaches the Gospel, calls everyone to repentance, and forgives the sins of those who draw near to Him."
+  },
+  {
+    "set": "Luminous",
+    "sequence": 4,
+    "title": "The Transfiguration",
+    "description": "Jesus reveals His divine glory on Mount Tabor to Peter, James, and John, shining like the sun alongside Moses and Elijah."
+  },
+  {
+    "set": "Luminous",
+    "sequence": 5,
+    "title": "The Institution of the Eucharist",
+    "description": "At the Last Supper, Jesus offers His Body and Blood as bread and wine, instituting the Holy Mass and the Priesthood."
+  },
+  {
+    "set": "Sorrowful",
+    "sequence": 1,
+    "title": "The Agony in the Garden",
+    "description": "Jesus prays intensely in the Garden of Gethsemane on the eve of His death, sweating blood as He accepts the weight of human sin."
+  },
+  {
+    "set": "Sorrowful",
+    "sequence": 2,
+    "title": "The Scourging at the Pillar",
+    "description": "Jesus is bound to a stone pillar by Roman soldiers and brutally whipped, enduring physical torment for our sake."
+  },
+  {
+    "set": "Sorrowful",
+    "sequence": 3,
+    "title": "The Crowning with Thorns",
+    "description": "Soldiers weave a sharp crown of thorns, press it into Jesus' head, and mockingly dress Him up to ridicule His kingship."
+  },
+  {
+    "set": "Sorrowful",
+    "sequence": 4,
+    "title": "The Carrying of the Cross",
+    "description": "Jesus, weakened and bleeding, carries the heavy wooden cross through the streets of Jerusalem up to Mount Calvary."
+  },
+  {
+    "set": "Sorrowful",
+    "sequence": 5,
+    "title": "The Crucifixion",
+    "description": "Jesus is nailed to the cross and hangs in agony for three hours before dying out of total love to redeem humanity."
+  },
+  {
+    "set": "Glorious",
+    "sequence": 1,
+    "title": "The Resurrection",
+    "description": "On the third day, Jesus rises glorious from the dead, defeating sin and death forever."
+  },
+  {
+    "set": "Glorious",
+    "sequence": 2,
+    "title": "The Ascension",
+    "description": "Forty days after His Resurrection, Jesus ascends body and soul into Heaven to take His place at the right hand of the Father."
+  },
+  {
+    "set": "Glorious",
+    "sequence": 3,
+    "title": "The Descent of the Holy Spirit",
+    "description": "Ten days after the Ascension, the Holy Spirit descends like tongues of fire upon Mary and the Apostles gathered in the Upper Room."
+  },
+  {
+    "set": "Glorious",
+    "sequence": 4,
+    "title": "The Assumption of Mary",
+    "description": "At the end of her earthly life, the Blessed Virgin Mary is taken body and soul into heavenly glory."
+  },
+  {
+    "set": "Glorious",
+    "sequence": 5,
+    "title": "The Coronation of Mary",
+    "description": "Mary is crowned by the Holy Trinity as Queen of Heaven and Earth, surrounded by all the saints and angels."
+  }
+]
